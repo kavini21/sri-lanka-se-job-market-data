@@ -1033,7 +1033,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Competitive salary and benefits package.</li>
 <li>Flexible working hours and a supportive team culture.</li>
 </ul>
-<p>If you are passionate about design and eager to contribute to exciting projects, we encourage you to apply and join our team!</p>",3,27,76,,,44,2026-10-08 22:03:28,2026-10-09
+<p>If you are passionate about design and eager to contribute to exciting projects, we encourage you to apply and join our team!</p>",3,27,76.0,,,44,2026-10-08 22:03:28,2026-10-09
 15413,.NET Developer,"<p>Join our team of innovators! We're looking for a skilled NET Developer to make an impact in a rewarding full-time remote role.</p>
 <p><strong>Responsibilities</strong></p>
 <ul>
@@ -1060,7 +1060,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Strong knowledge of the full software design lifecycle (SDLC), from initial design to deployment and maintenance.</li>
 <li>Proficient in unit testing with frameworks such as MSUnit and NUnit, and understanding of automated testing principles.</li>
 <li>Experience working in agile development environments.</li>
-</ul>",1,21,76,Waterlily Labs,https://waterlilylabs.com,109,2026-10-08 21:30:20,2026-10-09
+</ul>",1,21,76.0,Waterlily Labs,https://waterlilylabs.com,109,2026-10-08 21:30:20,2026-10-09
 15412,Enterprise Data Architect,"<p>We are looking for an experienced Enterprise Data Architect to provide senior-level architectural leadership for enterprise data platform initiatives, particularly within financial, regulatory, public-sector, and mission-critical environments. The ideal candidate should possess strong hands-on experience in designing enterprise-scale data architectures, data integration platforms, governance frameworks, analytics environments, and hybrid cloud solutions. This is a part-time senior consulting role. The selected candidate must be available to attend client meetings, technical discussions, presentations, demonstrations, clarification meetings, and other engagements on behalf of the company when required.<br><strong></strong></p>
 <p><strong>Responsibilities</strong></p>
 <ul>
@@ -1086,7 +1086,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Must be willing to provide a professional CV and project experience for inclusion in tenders, EOIs, RFPs, and client proposals.</li>
 <li>Experience in banking, financial services, regulatory, government, or other mission-critical environments will be a strong advantage.</li>
 <li>If you&#8217;re eager to advance your career and become a valued member of a prominent company, this is an opportunity you won&#8217;t want to miss!</li>
-</ul>",2,18,76,Treinetic,https://treinetic.com,77,2026-10-08 18:07:06,2026-10-09
+</ul>",2,18,76.0,Treinetic,https://treinetic.com,77,2026-10-08 18:07:06,2026-10-09
 15411,Associate Data Analyst,"<p>At Codimite, we're harnessing the power of cutting-edge AI technologies to transform our software development practices. By leveraging advanced tools like Google Gemini Pro, ADK, n8n and similar tools. we're equipping our development teams to craft innovative software solutions tailored to meet the diverse needs of our clients around the globe. Join us as we redefine the future of software development through the intelligent application of AI!</p>
 <p><strong>About the Role : </strong></p>
 <p>We are looking for a Associate Data Analyst to turn complex marketing, customer, and market data into actionable insights that drive business growth. The role will focus on forecasting performance, identifying growth opportunities, optimizing marketing investments, building predictive models, and translating data into clear recommendations that support strategic decision-making.</p>
@@ -1132,7 +1132,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Medical Coverage &amp; Benefits</li>
 <li>Flexible Working Hours.</li>
 <li>Exposure to New Technologies &amp; Working with a Dynamic Team</li>
-</ul>",1,18,79,Codimite,https://codimite.ai,124,2026-10-08 17:40:13,2026-10-09
+</ul>",1,18,79.0,Codimite,https://codimite.ai,124,2026-10-08 17:40:13,2026-10-09
 15410,Associate Business Analyst / Business Analyst,"<p>At Codimite, we're harnessing the power of cutting-edge AI technologies to transform our software development practices. By leveraging advanced tools like Google Gemini Pro, ADK, n8n and similar tools. we're equipping our development teams to craft innovative software solutions tailored to meet the diverse needs of our clients around the globe. Join us as we redefine the future of software development through the intelligent application of AI!</p>
 <p><strong>Responsibilities:</strong></p>
 <ul>
@@ -1161,7 +1161,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Medical Coverage &amp; Benefits</li>
 <li>Flexible Working Hours.</li>
 <li>Exposure to New Technologies &amp; Working with a Dynamic Team</li>
-</ul>",1,20,79,Codimite,https://codimite.ai,82,2026-10-08 17:36:42,2026-10-09
+</ul>",1,20,79.0,Codimite,https://codimite.ai,82,2026-10-08 17:36:42,2026-10-09
 15409,Business Data Analyst Intern,"<p><strong>About the Role</strong></p>
 <p>We are looking for a motivated and analytical Business Data Analyst Intern to join our team. This is an excellent opportunity for an undergraduate or fresh graduate who is interested in business intelligence, data analysis, reporting, and turning data into meaningful business insights. As a Business Data Analyst Intern, you will work closely with business and technical teams to collect, clean, analyze, and visualize data. You will gain practical experience working with real-world business data and supporting data-driven decision-making. The ideal candidate should have strong analytical thinking, attention to detail, and a willingness to learn data analytics tools and business processes.</p>
 <p><strong>Requirements</strong></p>
@@ -1297,3 +1297,286 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Collaborate with developers, designers, and stakeholders throughout the development lifecycle.</li>
 <li>Stay updated with emerging AI technologies, tools, and industry practices.</li>
 </ul>",1,18,,Residue Solutions,https://residuesolution.io,81,2026-10-08 16:55:15,2026-10-09
+15429,Technical Lead - .NET,"<p><strong>About Insighture</strong></p>
+<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
+<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Providing technical leadership and ensuring architectural integrity and software engineering best practices.</li>
+<li>Collaborating with clients and stakeholders to define requirements, manage timelines, and present outcomes effectively.</li>
+<li>Designing, developing, and maintaining robust applications, translating business needs into technical specifications and clean code.</li>
+<li>Conducting code reviews, troubleshooting complex issues, and ensuring code quality and maintainability.</li>
+<li>Recommending innovative solutions to enhance system performance, scalability, and security.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Bachelor&#8217;s degree in Computer Science, Software Engineering, or equivalent experience.</li>
+<li>6+ years of proven experience in backend development using C# and .NET technologies.</li>
+<li>Strong understanding of web APIs and microservices architecture.</li>
+<li>Hands-on experience with modern JavaScript frontend frameworks (e.g., React, Angular, or Vue).</li>
+<li>Solid grasp of software design patterns, Object-Oriented Programming (OOP), and clean architecture.</li>
+<li>Experience with unit testing, automated testing, and Agile methodologies.</li>
+<li>Experience with major cloud platforms (e.g., Azure, AWS, or GCP) and CI/CD pipelines.</li>
+<li>Proficiency with relational databases (SQL) and ORMs</li>
+</ul>
+<p><strong>Why Insighture?</strong></p>
+<ul>
+<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
+<li>Grow in your role with mentorship and the chance to lead on projects.</li>
+<li>Access sponsored counselling, family medical insurance and checkups.</li>
+<li>Get your salary pegged to the Australian dollar for financial stability.</li>
+</ul>",1,21,79,Insighture,https://www.insighture.com,27,2026-10-09 21:54:36,2026-10-10
+15428,Senior Software Engineer - .NET,"<p><strong>About Insighture</strong></p>
+<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
+<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Providing technical leadership and ensuring architectural integrity and software engineering best practices.</li>
+<li>Collaborating with clients and stakeholders to define requirements, manage timelines, and present outcomes effectively.</li>
+<li>Designing, developing, and maintaining robust applications, translating business needs into technical specifications and clean code.</li>
+<li>Conducting code reviews, troubleshooting complex issues, and ensuring code quality and maintainability.</li>
+<li>Recommending innovative solutions to enhance system performance, scalability, and security.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Bachelor&#8217;s degree in Computer Science, Software Engineering, or equivalent experience.</li>
+<li>4+ years of proven experience in backend development using C# and .NET technologies.</li>
+<li>Strong understanding of web APIs and microservices architecture.</li>
+<li>Hands-on experience with modern JavaScript frontend frameworks (e.g., React, Angular, or Vue).</li>
+<li>Solid grasp of software design patterns, Object-Oriented Programming (OOP), and clean architecture.</li>
+<li>Experience with unit testing, automated testing, and Agile methodologies.</li>
+<li>Experience with major cloud platforms (e.g., Azure, AWS, or GCP) and CI/CD pipelines.</li>
+<li>Proficiency with relational databases (SQL) and ORMs</li>
+</ul>
+<p><strong>Why Insighture?</strong></p>
+<ul>
+<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
+<li>Grow in your role with mentorship and the chance to lead on projects.</li>
+<li>Access sponsored counselling, family medical insurance and checkups.</li>
+<li>Get your salary pegged to the Australian dollar for financial stability.</li>
+</ul>",1,21,79,Insighture,https://www.insighture.com,26,2026-10-09 21:52:09,2026-10-10
+15427,Quality Engineering Lead,"<p><strong>About Insighture</strong></p>
+<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
+<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design risk-based test scenarios, boundary matrices, and edge-case suites for complex product workflows.</li>
+<li>Execute hands-on functional, exploratory, and regression testing before features move to automation.</li>
+<li>Conduct defect root-cause analysis (RCA) and drive or actively contribute to defect triage sessions</li>
+<li>Build and maintain scalable UI (Playwright, Cypress, or Selenium) and API automated test suites using C# / .NET, Java, or TypeScript/JavaScript.</li>
+<li>Automate critical manual regression suites and integrate them as automated quality gates in CI/CD pipelines (e.g., Azure DevOps, GitHub Actions, GitLab CI, or Jenkins).</li>
+<li>Run baseline performance and load tests using k6 or JMeter to catch throughput issues early.</li>
+<li>Use AI tools (e.g., Claude, Cursor, GitHub Copilot) to speed up test design, script creation, and data generation.</li>
+<li>Identify opportunities to introduce intelligent testing practices that enhance overall team productivity and reduce repetitive QA overhead.</li>
+<li>Lead manual and automated verification of reporting modules, dashboards, and data pipelines.</li>
+<li>Write complex SQL queries (joins, aggregations) to validate backend data integrity against frontend reports and export formats (PDF, CSV, Excel).</li>
+<li>Plan and execute hands-on cross-squad SIT to validate shared interfaces, APIs, and critical dependencies across services.</li>
+<li>Review test plans and automation PRs, championing clean code and shift-left quality practices.</li>
+<li>Track and communicate baseline quality metrics (Defect Escape Rate, Automation Pass Rate, SIT Cycle Time).</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>6+ years of total QA experience, demonstrating a strong balance between hands-on manual testing and test automation.</li>
+<li>Hands-on UI &amp; API Automation: Practical coding proficiency in C# / .NET or Java (alongside TypeScript/JavaScript) using frameworks like Playwright, Selenium, or Cypress, plus REST/GraphQL API testing (REST Assured, Postman, or native HTTP client libraries).</li>
+<li>Strong SQL &amp; Data Testing: Proven ability to query relational databases to validate complex calculation engines, data transformations, and reporting outputs.</li>
+<li>Modern Tooling &amp; CI/CD: Practical experience with Git, CI/CD pipeline integration (Azure DevOps, GitHub Actions, or Jenkins), and Jira-based test management (Xray, Zephyr, or TestRail).</li>
+<li>Cross-Squad SIT Execution: Hands-on experience executing end-to-end SIT cycles across squad boundaries, validating shared APIs/data flows, and driving defect triage directly with engineers</li>
+</ul>
+<p><strong>Why Insighture?</strong></p>
+<ul>
+<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
+<li>Grow in your role with mentorship and the chance to lead on projects.</li>
+<li>Access sponsored counselling, family medical insurance and checkups.</li>
+<li>Get your salary pegged to the Australian dollar for financial stability.</li>
+</ul>",1,39,79,Insighture,https://www.insighture.com,18,2026-10-09 21:47:31,2026-10-10
+15426,Senior Quality Engineer - Automation,"<p><strong>About Insighture</strong></p>
+<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
+<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design risk-based test scenarios, boundary matrices, and edge-case suites for complex product workflows.</li>
+<li>Execute hands-on functional, exploratory, and regression testing before features move to automation.</li>
+<li>Conduct defect root-cause analysis (RCA) and drive or actively contribute to defect triage sessions</li>
+<li>Build and maintain scalable UI (Playwright, Cypress, or Selenium) and API automated test suites using C# / .NET, Java, or TypeScript/JavaScript.</li>
+<li>Automate critical manual regression suites and integrate them as automated quality gates in CI/CD pipelines (e.g., Azure DevOps, GitHub Actions, GitLab CI, or Jenkins).</li>
+<li>Run baseline performance and load tests using k6 or JMeter to catch throughput issues early.</li>
+<li>Use AI tools (e.g., Claude, Cursor, GitHub Copilot) to speed up test design, script creation, and data generation.</li>
+<li>Identify opportunities to introduce intelligent testing practices that enhance overall team productivity and reduce repetitive QA overhead.</li>
+<li>Lead manual and automated verification of reporting modules, dashboards, and data pipelines.</li>
+<li>Write complex SQL queries (joins, aggregations) to validate backend data integrity against frontend reports and export formats (PDF, CSV, Excel).</li>
+<li>Plan and execute hands-on cross-squad SIT to validate shared interfaces, APIs, and critical dependencies across services.</li>
+<li>Review test plans and automation PRs, championing clean code and shift-left quality practices.</li>
+<li>Track and communicate baseline quality metrics (Defect Escape Rate, Automation Pass Rate, SIT Cycle Time).</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>6+ years of total QA experience, demonstrating a strong balance between hands-on manual testing and test automation.</li>
+<li>Hands-on UI &amp; API Automation: Practical coding proficiency in C# / .NET or Java (alongside TypeScript/JavaScript) using frameworks like Playwright, Selenium, or Cypress, plus REST/GraphQL API testing (REST Assured, Postman, or native HTTP client libraries).</li>
+<li>Strong SQL &amp; Data Testing: Proven ability to query relational databases to validate complex calculation engines, data transformations, and reporting outputs.</li>
+<li>Modern Tooling &amp; CI/CD: Practical experience with Git, CI/CD pipeline integration (Azure DevOps, GitHub Actions, or Jenkins), and Jira-based test management (Xray, Zephyr, or TestRail).</li>
+<li>Cross-Squad SIT Execution: Hands-on experience executing end-to-end SIT cycles across squad boundaries, validating shared APIs/data flows, and driving defect triage directly with engineers</li>
+</ul>
+<p><strong>Why Insighture?</strong></p>
+<ul>
+<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
+<li>Grow in your role with mentorship and the chance to lead on projects.</li>
+<li>Access sponsored counselling, family medical insurance and checkups.</li>
+<li>Get your salary pegged to the Australian dollar for financial stability.</li>
+</ul>",1,39,79,Insighture,https://www.insighture.com,18,2026-10-09 21:38:53,2026-10-10
+15425,Project Manager,"<p>Are you an experienced Project Manager who enjoys leading software delivery, working with customers and coordinating cross-functional teams? Join OKLO and help deliver innovative digital solutions across the globe.</p>
+<p><strong>What You'll Do</strong></p>
+<ul>
+<li>Lead Project Delivery - Manage projects end-to-end ensuring delivery within agreed&#160;scope, timelines and quality standards</li>
+<li>Plan &amp; Track - Develop project plans, milestones, dependencies and delivery schedules</li>
+<li>Manage Customers &amp; Stakeholders. Build strong relationships, manage expectations and maintain clear communication</li>
+<li>Coordinate Teams - Work closely with BA, Product, Architecture, Development, QA and Application Operations teams</li>
+<li>Manage Risks &amp; Issues identify risks, dependencies and delivery challenges and drive them towards resolution</li>
+<li>Manage Scope &amp; Changes Evaluate change requests and manage their impact on timelines, resources and deliverables.</li>
+<li>Project Reporting &amp; Governance Maintain project status reports, RAID logs, action trackers and dashboards</li>
+</ul>
+<p><strong>What We're Looking For</strong></p>
+<ul>
+<li>2-3 years' experience in Project Management, Software Delivery or IT Project Management.</li>
+<li>Good understanding of SDLC and Agile/Scrum</li>
+<li>Strong customer and stakeholder management skills</li>
+<li>Excellent problem-solving and analytical abilities &#8226;Experience in Travel Tech,</li>
+<li>Commodity Auction, ERP or enterprise software is an advantage</li>
+</ul>
+<p><strong>Why OKLO?</strong></p>
+<p>Work at the intersection of Technology Customers-Product Delivery, managing exciting software projects and helping transform complex business requirements into successful digital solutions</p>",1,20,79,OKLO Private Limited,https://www.okloworld.com,35,2026-10-09 20:39:52,2026-10-10
+15424,Applications Operations Engineer,"<p>Join OKLO and become part of a team responsible for ensuring our applications are successfully implemented, supported and continuously improved</p>
+<p><strong>What You'll Do</strong></p>
+<ul>
+<li>Provide LV/L2 application and technical support</li>
+<li>Investigate issues, analyse logs and identify&#160;root causes,</li>
+<li>Manage incidents, SLAS and coordinate:&#160;technical escalations</li>
+<li>Monitor Microsoft Azure resources and&#160;application environments</li>
+<li>Identify opportunities for process, product and operational improvements</li>
+</ul>
+<p><strong>What We're Looking For</strong></p>
+<ul>
+<li>BSc in Computer Science, IT, Software Engineering or a related field</li>
+<li>2+ years' experience in Application Support, Software Operations, Production Support or a similar role</li>
+<li>Strong troubleshooting and analytical skills</li>
+<li>Good understanding of application logs, APIs, databases and integrations</li>
+<li>Exposure to Microsoft Azure/cloud environments</li>
+<li>Excellent communication and customer-facing skills</li>
+</ul>
+<p><strong>Why OKLO?</strong></p>
+<p>Work at the intersection of Technology, Customers, Product and Delivery, solving real-world problems and helping continuously improve the way our customers use OKLO solutions</p>",1,37,79,OKLO Private Limited,https://www.okloworld.com,54,2026-10-09 20:35:57,2026-10-10
+15423,Sales & Marketing Coordinator,"<p><strong>About the Role</strong></p>
+<p>Rider Force (Pvt) Ltd is looking for a motivated and confident <strong>Sales &amp; Marketing Coordinator</strong> to join our growing team.</p>
+<p>The ideal candidate should be fluent in both Sinhala and Tamil, possess excellent communication skills, and be comfortable handling customer inquiries, sales calls, and leads generated through marketing campaigns.</p>
+<p>You will play an important role in communicating with potential customers, understanding their requirements, explaining our services and pricing, and supporting our sales and marketing operations.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Handle incoming sales calls and customer inquiries professionally.</li>
+<li>Communicate effectively with Sinhala- and Tamil-speaking customers.</li>
+<li>Follow up with potential customers and leads generated through advertisements.</li>
+<li>Understand customer requirements and recommend suitable services.</li>
+<li>Explain company services, pricing, and related information clearly.</li>
+<li>Maintain positive relationships with potential and existing customers.</li>
+<li>Coordinate with internal teams to communicate customer requirements.</li>
+<li>Support daily sales and marketing activities.</li>
+</ul>
+<p><strong>Requirements &amp; Qualifications</strong></p>
+<ul>
+<li><strong>Fluency in both Sinhala and Tamil is mandatory.</strong></li>
+<li>Strong communication and interpersonal skills.</li>
+<li>Confidence in handling sales calls and customer conversations.</li>
+<li>Ability to understand customer requirements and provide appropriate information.</li>
+<li>Comfortable explaining service offerings and pricing.</li>
+<li>Basic familiarity with computers, IT, and software tools.</li>
+<li>Ability to manage and follow up on leads generated through advertising campaigns.</li>
+<li>Strong organizational and problem-solving skills.</li>
+<li>Positive attitude, adaptability, and willingness to learn.</li>
+</ul>
+<p><strong>How to Apply</strong></p>
+<p>Interested candidates can send their updated CV to:</p>
+<p><strong>careers@riderforce.lk</strong></p>
+<p><strong>Email Subject:</strong> Application &#8211; Sales &amp; Marketing Coordinator</p>",1,40,,RiderForce (Pvt) Ltd,https://riderforce.lk/,9,2026-10-09 20:16:17,2026-10-10
+15422,Senior Engineers / Associate Tech Leads,"<p>We&#8217;re looking for experienced Senior Engineers and Associate Tech Leads who are ready to tackle complex technical challenges, build reliable solutions, and contribute to the development of impactful software.</p>
+<p><strong>Tech Stack</strong></p>
+<p>.Net Core, C#, ASP.NET, MVC, ASP.NET Core Web API,&#160;React,&#160;RESTful Services and APIs, React Native,&#160;SuperTest,&#160;SignalR,&#160;jQuery,&#160;Mocha, RINET, JavaScript,&#160;Azure DevOps,&#160;CSS,&#160;Vue.js,&#160;&#1042;&#1110;&#1089;&#1077;&#1088;,&#160;HTML, Postman, Azure,&#160;Terraform,&#160;MS-SQL,&#160;Chai</p>
+<p><strong>What You'll Do</strong></p>
+<ul>
+<li>Lead the design and architecture of high-quality. scalable, secure solutions for OKLO's platforms using NET and Azure technologies.</li>
+<li>Own technical delivery end to end, from requirements and estimation through deployment and production support.</li>
+<li>Guide and mentor engineers through code reviews, technical guidance and knowledge sharing.</li>
+<li>Define, enforce and improve OKLO's engineering standards, CI/CD practices and quality processes.</li>
+<li>Work with Engineering and other cross-functional teams to turn business needs into technical plans and sprint goals.</li>
+<li>Find and resolve technical risks, performance bottlenecks and architectural issues early.</li>
+</ul>
+<p><strong>What We're Looking For</strong></p>
+<ul>
+<li>Bachelor's degree in IT, Computer Science, or a related field.</li>
+<li>Minimum 5+ years of hands-on industry experience in software development with .NET and modern web frameworks.</li>
+<li>Proven experience leading features or small teams, mentoring engineers, and making technical design decisions.</li>
+<li>Strong grasp of system design, cloud architecture (preferably Azure), and Devops practices.</li>
+<li>Excellent communication and stakeholder management skills.</li>
+</ul>
+<p><strong>Why OKLO?</strong></p>
+<p>Work at the intersection of Technology, Customers, Product and Delivery, solving real-world problems and helping continuously improve the way our customers use OKLO solutions</p>",1,21,79,OKLO Private Limited,https://www.okloworld.com,39,2026-10-09 20:16:01,2026-10-10
+15421,Full Stack Developer Intern,"<p><strong>We're Hiring &#8211; Full Stack Developer Intern!</strong></p>
+<p>PrimeWave Lab is looking for a motivated and curious <strong>Full Stack Developer Intern</strong> to join our growing development team!</p>
+<p>This is a <strong>paid, fully remote internship</strong> where you'll gain hands-on experience building modern products for web and mobile, working with industry-relevant technologies, and contributing to real client projects.</p>
+<p><strong>Tech Stack</strong></p>
+<ul>
+<li>Next.js &amp; React</li>
+<li>Expo / React Native</li>
+<li>TypeScript / JavaScript</li>
+<li>Node.js</li>
+<li>REST APIs</li>
+<li>MySQL / PostgreSQL</li>
+<li>Tailwind CSS</li>
+<li>Git &amp; GitHub</li>
+</ul>
+<p>You don't need to be an expert in every technology listed. A solid foundation in React and a willingness to learn are what matter most.</p>
+<p><strong>What We're Looking For</strong></p>
+<ul>
+<li>Good foundations in building with React</li>
+<li>Familiarity with Git and basic web APIs</li>
+<li>Strong problem-solving and debugging skills</li>
+<li>Adaptability, curiosity, and openness to feedback</li>
+</ul>
+<p><strong>What We Offer</strong></p>
+<ul>
+<li>Paid internship with opportunities for growth based on performance</li>
+<li>Fully remote working environment</li>
+<li>Hands-on experience with real-world web and mobile applications</li>
+<li>Exposure to modern development tools and workflows</li>
+<li>Opportunities to develop technical and professional skills</li>
+<li>A collaborative environment that encourages learning and innovation</li>
+</ul>
+<p>&#128233;<strong>How to Apply</strong></p>
+<p>Send your <strong>CV along with your GitHub profile or portfolio</strong> to:</p>
+<p><strong>careers@primewavelab.com</strong></p>
+<p><strong>Email Subject:</strong> Full Stack Developer Intern &#8211; Application</p>
+<p>&#127760; www.primewavelab.com</p>
+<p>#Hiring #FullStackDeveloper #SoftwareDevelopment #Internship #PaidInternship #RemoteWork #ReactJS #Nextjs #ReactNative #Expo #TypeScript #SriLankaJobs</p>",4,21,76,PrimeWave Lab (Pvt) Ltd,https://primewavelab.com,289,2026-10-09 18:08:33,2026-10-10
+15420,Engineer - IT Network Support,"<p>We are seeking a proactive and skilled Network Engineer to support and maintain the Bank's branch, ATM, and data communication networks in a 24x7 banking environment. The role involves ensuring network availability, security, and performance while troubleshooting network issues and coordinating with vendors, telecom providers, and internal teams to ensure uninterrupted banking operations.</p>
+<p><strong>Key Responsibilities:</strong></p>
+<ul>
+<li>Manage, maintain, and support the Bank's WAN, LAN, Wi-Fi, VPN, branch, ATM, and departmental network infrastructure.</li>
+<li>Ensure high availability and uptime of critical banking services and connectivity operating in a 24x7 environment.</li>
+<li>Monitor network performance and proactively identify network bottlenecks, failures, and security vulnerabilities.</li>
+<li>Perform advanced troubleshooting and root cause analysis for network incidents using network monitoring and packet analysis tools.</li>
+<li>Configure and maintain routers, switches, firewalls, VPNs, and related network security devices.</li>
+<li>Support routing and switching technologies including VLANS, STP, EtherChannel, OSPF, BGP, and other enterprise networking protocols.</li>
+<li>Coordinate with telecom providers, ISPs, vendors, and third-party support teams to resolve incidents within agreed SLAs.</li>
+<li>Maintain network security standards, secure configurations, and access controls.<br>Support ATM connectivity and resolve branch communication issues promptly.</li>
+<li>Participate in infrastructure upgrades, branch setups, migrations, DR activities, and technology enhancement projects.</li>
+<li>Maintain accurate network documentation including network diagrams, IP schemes, configurations, and incident reports.</li>
+<li>Provide after-hours and on-call support for critical incidents when required.</li>
+</ul>
+<p><strong>Required Qualifications:</strong></p>
+<ul>
+<li>Bachelor's Degree in IT, Computer Science, Telecommunication, or a related field.</li>
+<li>Minimum 2-3 years of experience in enterprise network administration and troubleshooting.</li>
+<li>Professional networking certifications such as CCNA or CCNP are an added advantage.</li>
+<li>Strong experience in Cisco networking environments, WAN/LAN, VPNs, MPLS, routing and switching technologies.</li>
+<li>Hands-on experience with firewalls, network monitoring, and troubleshooting tools such as Wireshark is added advantage.</li>
+<li>Strong analytical, troubleshooting, communication, and stakeholder management skills.</li>
+<li>Experience in banking or financial sector environments will be an added advantage. Self-motivated with the ability to work in a 24x7 mission-critical environment.</li>
+</ul>
+<p>ORYSYS Limited is an equal opportunity employer, and all recruitment decisions are based solely on suitability, regardless of race, gender, marital status, disability, age, religious belief, or sexual orientation. By submitting your application, you consent to collection and processing of Pll for recruitment purposes, for further information refer our Website Privacy Policy</p>",1,19,79,Orysys Limited,https://orysys.com,99,2026-10-09 16:53:39,2026-10-10
