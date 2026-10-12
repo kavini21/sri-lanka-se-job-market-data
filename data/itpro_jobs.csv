@@ -1592,7 +1592,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Final-year student or recent graduate in CS, IT or a related field</li>
 <li>A sharp eye for detail and a knack for finding what breaks</li>
 <li>Basic grasp of the software testing life cycle</li>
-</ul>",4,39,79,Codeverse  Labs,https://www.codeverselabs.net,40,2026-10-10 23:47:31,2026-10-11
+</ul>",4,39,79.0,Codeverse  Labs,https://www.codeverselabs.net,40,2026-10-10 23:47:31,2026-10-11
 15430,Graphic Designer & Video Editor – Intern (1–2 years ),"<p>Innovoo Solutions (Pvt) Ltd. is looking for a creative and motivated Graphic Designer &amp; Video Editor to join our team. We welcome interns as well as candidates with 1&#8211;2 years of experience.</p>
 <p>The ideal candidate should have skills in graphic design and video editing, along with an interest in<strong> </strong>digital marketing and social media profile management. This role involves working on diverse client projects, creating engaging visual content, editing videos, and supporting the management of social media platforms and digital campaigns.</p>
 <p><strong>Key Responsibilities</strong></p>
@@ -1626,7 +1626,123 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 </ul>
 <p><strong>Job Type:</strong> Internship / Full-Time</p>
 <p><strong>Work Arrangement:</strong> Onsite</p>
-<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",4,27,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,65,2026-10-10 09:42:34,2026-10-11
+<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",4,27,79.0,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,65,2026-10-10 09:42:34,2026-10-11
+15433,Network Engineer,"<p>Are you passionate about networking, IT infrastructure, and integrated technology solutions?</p>
+<p>Trinity Solutions (Pvt.) Ltd., a proud member of the Illukkumbura Industrial Automation Group, is looking for a skilled and motivated Network Engineer to join our growing team!</p>
+<p>We are seeking an enthusiastic professional with strong technical knowledge and hands-on experience in network infrastructure and ELV systems.</p>
+<p><strong>Key Areas of Expertise:</strong></p>
+<ul>
+<li>Network Infrastructure &#8211; Design, Implementation &amp; Troubleshooting</li>
+<li>Structured Cabling &#8211; Cat6/Cat6A &amp; Fiber Optic Networks</li>
+<li>Active &amp; Passive Networking Solutions</li>
+<li>IP CCTV Surveillance Systems</li>
+<li>Public Address (PA) Systems</li>
+<li>Network Configuration, Testing &amp; Commissioning</li>
+</ul>
+<p><strong>What We're Looking For:</strong></p>
+<ul>
+<li>Degree, HND, or Diploma in IT, Networking, Telecommunications, or a related field.</li>
+<li>Minimum 3 years of relevant industry experience.</li>
+<li>Strong technical and troubleshooting skills.</li>
+<li>Knowledge of network equipment, structured cabling, and ELV infrastructure.</li>
+<li>CCNA/CCNP certifications will be an added advantage.</li>
+</ul>
+<p>Be part of an innovative engineering team delivering reliable, secure, and future-ready technology solutions.</p>",1,19,79,Trinity Solutions (Pvt.) Ltd,http://ilukauto.com,85,2026-10-11 17:56:54,2026-10-12
+15432,E-Commerce Executive,"<p>Be a part of Reqzo and grow your career in the exciting world of e-commerce!</p>
+<p><strong>Job Responsibilities</strong></p>
+<ul>
+<li>Manage our social media platforms and create engaging content.</li>
+<li>Communicate with customers,&#160;handle inquiries and orders.</li>
+<li>Manage accounts and&#160;daily sales records.</li>
+<li>Work with our website (update product listings, manage orders, track sales. and ensure smooth operations).</li>
+<li>Speak and communicate in English, Sinhala and Tamil (both written and spoken).</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Female candidate only.</li>
+<li>Degree in Computer Science (Mandatory).</li>
+<li>Minimum 1 year of experience in the e-commerce field.</li>
+<li>Good communication and computer skills.</li>
+<li>Ability to manage social media, customer inquiries and online accounts.</li>
+<li>Willingness to work in our office.</li>
+</ul>
+<p><strong>Work Location</strong><br>No.12, Hulfstrop Street, Colombo 12</p>",1,40,79,Reqzo,https://www.reqzo.com,55,2026-10-11 17:36:45,2026-10-12
+14852,IT Assistant,"<p><strong>Requirements:</strong></p>
+<ul>
+<li>Diploma or Degree in IT, Computer Science, or a related field.</li>
+<li>1-2 years of IT or ERP support experience.</li>
+<li>Basic knowledge of ERP systems and SQL is an advantage.</li>
+<li>Strong troubleshooting and problem-solving skills.</li>
+<li>Good communication skills and ability to work in a team.</li>
+<li>Willingness to learn and adapt to new technologies.</li>
+<li>Strong attention to detail and organizational skills.</li>
+</ul>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li>Provide first-level support for the ERP system and users.</li>
+<li>Assist with ERP maintenance, updates, and troubleshooting.</li>
+<li>Manage user accounts and access permissions.</li>
+<li>Monitor system performance and ensure data accuracy.</li>
+<li>Maintain documentation and coordinate with vendors when needed.</li>
+</ul>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>We offer an attractive remuneration package &amp; incentives that are above market standards for the suitable candidate.</li>
+<li>Attractive Salary.</li>
+<li>Performance Incentives.</li>
+<li>Growth Opportunities &#8211; Build your career with a trusted brand.</li>
+<li>Supportive Team &#8211; Work in a positive and dynamic environment.</li>
+<li>12 years of trusted service.</li>
+<li>Certified ISO 9001:2015 organization.</li>
+</ul>
+<p>If you feel you are the right individual for the above position, apply now.</p>",1,37,,Expo Ceylon,https://www.expoceylonplc.com,791,2026-10-11 17:12:16,2026-10-12
+15431,QA Engineer Intern,"<p>We&#8217;re hiring: QA Engineer Intern at Codeverse Labs<br>Learn how great software gets tested, from the first bug report to release day.</p>
+<p><strong>What you&#8217;ll do:</strong></p>
+<ul>
+<li>Run test cases and report bugs clearly</li>
+<li>Learn manual testing and the basics of test automation</li>
+<li>Verify fixes and help check every release</li>
+</ul>
+<p><strong>Who we&#8217;re looking for:</strong></p>
+<ul>
+<li>Final-year student or recent graduate in CS, IT or a related field</li>
+<li>A sharp eye for detail and a knack for finding what breaks</li>
+<li>Basic grasp of the software testing life cycle</li>
+</ul>",4,39,79,Codeverse Labs,https://www.codeverselabs.net,349,2026-10-10 23:47:31,2026-10-12
+15430,Graphic Designer & Video Editor – Intern (1–2 years ),"<p>Innovoo Solutions (Pvt) Ltd. is looking for a creative and motivated Graphic Designer &amp; Video Editor to join our team. We welcome interns as well as candidates with 1&#8211;2 years of experience.</p>
+<p>The ideal candidate should have skills in graphic design and video editing, along with an interest in<strong> </strong>digital marketing and social media profile management. This role involves working on diverse client projects, creating engaging visual content, editing videos, and supporting the management of social media platforms and digital campaigns.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design creative and engaging content for social media, digital campaigns, advertisements, and other marketing materials.</li>
+<li>Edit Reels, TikTok videos, promotional videos, corporate videos, and other short-form content.</li>
+<li>Create graphics and videos according to client brand guidelines and marketing objectives.</li>
+<li>Develop creative concepts and visual ideas for different client brands.</li>
+<li>Manage and maintain client <strong>social media profiles</strong>, including Facebook, Instagram, LinkedIn, TikTok, and other relevant platforms.</li>
+<li>Assist with planning, scheduling, and publishing social media content.</li>
+<li>Support the preparation and execution of digital marketing campaigns.</li>
+<li>Coordinate with the marketing team to develop content for monthly content calendars.</li>
+<li>Monitor social media pages and ensure content is published according to schedule.</li>
+<li>Make design and video revisions based on client and internal feedback.</li>
+<li>Stay updated with social media trends, design trends, video trends, and digital marketing practices.</li>
+<li>Manage multiple creative projects while meeting deadlines.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Interns or candidates with 1&#8211;2 years of relevant experience are encouraged to apply.</li>
+<li>A Degree, Diploma, or relevant qualification in Media Arts Production Technology, Multimedia, Graphic Design, Digital Media, Visual Communication, or a related field.</li>
+<li>Proficiency in graphic design tools such as Adobe Photoshop, Adobe Illustrator, and Canva.</li>
+<li>Proficiency in video editing tools such as Adobe Premiere Pro, Adobe After Effects, and CapCut.</li>
+<li>Knowledge of digital marketing and social media profile management.</li>
+<li>Understanding of content creation for Facebook, Instagram, LinkedIn, TikTok, and other digital platforms.</li>
+<li>Creativity with a strong eye for design, visual storytelling, and attention to detail.</li>
+<li>Good communication, teamwork, and time-management skills.</li>
+<li>Ability to manage multiple tasks and work according to deadlines.</li>
+<li>Willingness to learn, accept feedback, and adapt to different client requirements.</li>
+<li>A portfolio showcasing graphic design and/or video editing work is required.</li>
+</ul>
+<p><strong>Job Type:</strong> Internship / Full-Time</p>
+<p><strong>Work Arrangement:</strong> Onsite</p>
+<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",4,27,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,98,2026-10-10 09:42:34,2026-10-12
 15429,Technical Lead - .NET,"<p><strong>About Insighture</strong></p>
 <p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
 <p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
@@ -1655,7 +1771,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Grow in your role with mentorship and the chance to lead on projects.</li>
 <li>Access sponsored counselling, family medical insurance and checkups.</li>
 <li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,21,79,Insighture,https://www.insighture.com,66,2026-10-09 21:54:36,2026-10-11
+</ul>",1,21,79,Insighture,https://www.insighture.com,105,2026-10-09 21:54:36,2026-10-12
 15428,Senior Software Engineer - .NET,"<p><strong>About Insighture</strong></p>
 <p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
 <p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
@@ -1684,7 +1800,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Grow in your role with mentorship and the chance to lead on projects.</li>
 <li>Access sponsored counselling, family medical insurance and checkups.</li>
 <li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,21,79,Insighture,https://www.insighture.com,88,2026-10-09 21:52:09,2026-10-11
+</ul>",1,21,79,Insighture,https://www.insighture.com,124,2026-10-09 21:52:09,2026-10-12
 15427,Quality Engineering Lead,"<p><strong>About Insighture</strong></p>
 <p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
 <p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
@@ -1718,7 +1834,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Grow in your role with mentorship and the chance to lead on projects.</li>
 <li>Access sponsored counselling, family medical insurance and checkups.</li>
 <li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,39,79,Insighture,https://www.insighture.com,45,2026-10-09 21:47:31,2026-10-11
+</ul>",1,39,79,Insighture,https://www.insighture.com,55,2026-10-09 21:47:31,2026-10-12
 15426,Senior Quality Engineer - Automation,"<p><strong>About Insighture</strong></p>
 <p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
 <p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
@@ -1752,7 +1868,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Grow in your role with mentorship and the chance to lead on projects.</li>
 <li>Access sponsored counselling, family medical insurance and checkups.</li>
 <li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,39,79,Insighture,https://www.insighture.com,42,2026-10-09 21:38:53,2026-10-11
+</ul>",1,39,79,Insighture,https://www.insighture.com,57,2026-10-09 21:38:53,2026-10-12
 15425,Project Manager,"<p>Are you an experienced Project Manager who enjoys leading software delivery, working with customers and coordinating cross-functional teams? Join OKLO and help deliver innovative digital solutions across the globe.</p>
 <p><strong>What You'll Do</strong></p>
 <ul>
@@ -1773,77 +1889,4 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Commodity Auction, ERP or enterprise software is an advantage</li>
 </ul>
 <p><strong>Why OKLO?</strong></p>
-<p>Work at the intersection of Technology Customers-Product Delivery, managing exciting software projects and helping transform complex business requirements into successful digital solutions</p>",1,20,79,OKLO Private Limited,https://www.okloworld.com,90,2026-10-09 20:39:52,2026-10-11
-15424,Applications Operations Engineer,"<p>Join OKLO and become part of a team responsible for ensuring our applications are successfully implemented, supported and continuously improved</p>
-<p><strong>What You'll Do</strong></p>
-<ul>
-<li>Provide LV/L2 application and technical support</li>
-<li>Investigate issues, analyse logs and identify&#160;root causes,</li>
-<li>Manage incidents, SLAS and coordinate:&#160;technical escalations</li>
-<li>Monitor Microsoft Azure resources and&#160;application environments</li>
-<li>Identify opportunities for process, product and operational improvements</li>
-</ul>
-<p><strong>What We're Looking For</strong></p>
-<ul>
-<li>BSc in Computer Science, IT, Software Engineering or a related field</li>
-<li>2+ years' experience in Application Support, Software Operations, Production Support or a similar role</li>
-<li>Strong troubleshooting and analytical skills</li>
-<li>Good understanding of application logs, APIs, databases and integrations</li>
-<li>Exposure to Microsoft Azure/cloud environments</li>
-<li>Excellent communication and customer-facing skills</li>
-</ul>
-<p><strong>Why OKLO?</strong></p>
-<p>Work at the intersection of Technology, Customers, Product and Delivery, solving real-world problems and helping continuously improve the way our customers use OKLO solutions</p>",1,37,79,OKLO Private Limited,https://www.okloworld.com,146,2026-10-09 20:35:57,2026-10-11
-15423,Sales & Marketing Coordinator,"<p><strong>About the Role</strong></p>
-<p>Rider Force (Pvt) Ltd is looking for a motivated and confident <strong>Sales &amp; Marketing Coordinator</strong> to join our growing team.</p>
-<p>The ideal candidate should be fluent in both Sinhala and Tamil, possess excellent communication skills, and be comfortable handling customer inquiries, sales calls, and leads generated through marketing campaigns.</p>
-<p>You will play an important role in communicating with potential customers, understanding their requirements, explaining our services and pricing, and supporting our sales and marketing operations.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Handle incoming sales calls and customer inquiries professionally.</li>
-<li>Communicate effectively with Sinhala- and Tamil-speaking customers.</li>
-<li>Follow up with potential customers and leads generated through advertisements.</li>
-<li>Understand customer requirements and recommend suitable services.</li>
-<li>Explain company services, pricing, and related information clearly.</li>
-<li>Maintain positive relationships with potential and existing customers.</li>
-<li>Coordinate with internal teams to communicate customer requirements.</li>
-<li>Support daily sales and marketing activities.</li>
-</ul>
-<p><strong>Requirements &amp; Qualifications</strong></p>
-<ul>
-<li><strong>Fluency in both Sinhala and Tamil is mandatory.</strong></li>
-<li>Strong communication and interpersonal skills.</li>
-<li>Confidence in handling sales calls and customer conversations.</li>
-<li>Ability to understand customer requirements and provide appropriate information.</li>
-<li>Comfortable explaining service offerings and pricing.</li>
-<li>Basic familiarity with computers, IT, and software tools.</li>
-<li>Ability to manage and follow up on leads generated through advertising campaigns.</li>
-<li>Strong organizational and problem-solving skills.</li>
-<li>Positive attitude, adaptability, and willingness to learn.</li>
-</ul>
-<p><strong>How to Apply</strong></p>
-<p>Interested candidates can send their updated CV to:</p>
-<p><strong>careers@riderforce.lk</strong></p>
-<p><strong>Email Subject:</strong> Application &#8211; Sales &amp; Marketing Coordinator</p>",1,40,,RiderForce (Pvt) Ltd,https://riderforce.lk/,26,2026-10-09 20:16:17,2026-10-11
-15422,Senior Engineers / Associate Tech Leads,"<p>We&#8217;re looking for experienced Senior Engineers and Associate Tech Leads who are ready to tackle complex technical challenges, build reliable solutions, and contribute to the development of impactful software.</p>
-<p><strong>Tech Stack</strong></p>
-<p>.Net Core, C#, ASP.NET, MVC, ASP.NET Core Web API,&#160;React,&#160;RESTful Services and APIs, React Native,&#160;SuperTest,&#160;SignalR,&#160;jQuery,&#160;Mocha, RINET, JavaScript,&#160;Azure DevOps,&#160;CSS,&#160;Vue.js,&#160;&#1042;&#1110;&#1089;&#1077;&#1088;,&#160;HTML, Postman, Azure,&#160;Terraform,&#160;MS-SQL,&#160;Chai</p>
-<p><strong>What You'll Do</strong></p>
-<ul>
-<li>Lead the design and architecture of high-quality. scalable, secure solutions for OKLO's platforms using NET and Azure technologies.</li>
-<li>Own technical delivery end to end, from requirements and estimation through deployment and production support.</li>
-<li>Guide and mentor engineers through code reviews, technical guidance and knowledge sharing.</li>
-<li>Define, enforce and improve OKLO's engineering standards, CI/CD practices and quality processes.</li>
-<li>Work with Engineering and other cross-functional teams to turn business needs into technical plans and sprint goals.</li>
-<li>Find and resolve technical risks, performance bottlenecks and architectural issues early.</li>
-</ul>
-<p><strong>What We're Looking For</strong></p>
-<ul>
-<li>Bachelor's degree in IT, Computer Science, or a related field.</li>
-<li>Minimum 5+ years of hands-on industry experience in software development with .NET and modern web frameworks.</li>
-<li>Proven experience leading features or small teams, mentoring engineers, and making technical design decisions.</li>
-<li>Strong grasp of system design, cloud architecture (preferably Azure), and Devops practices.</li>
-<li>Excellent communication and stakeholder management skills.</li>
-</ul>
-<p><strong>Why OKLO?</strong></p>
-<p>Work at the intersection of Technology, Customers, Product and Delivery, solving real-world problems and helping continuously improve the way our customers use OKLO solutions</p>",1,21,79,OKLO Private Limited,https://www.okloworld.com,82,2026-10-09 20:16:01,2026-10-11
+<p>Work at the intersection of Technology Customers-Product Delivery, managing exciting software projects and helping transform complex business requirements into successful digital solutions</p>",1,20,79,OKLO Private Limited,https://www.okloworld.com,121,2026-10-09 20:39:52,2026-10-12
