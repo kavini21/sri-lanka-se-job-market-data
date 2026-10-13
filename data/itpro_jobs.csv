@@ -1647,7 +1647,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Knowledge of network equipment, structured cabling, and ELV infrastructure.</li>
 <li>CCNA/CCNP certifications will be an added advantage.</li>
 </ul>
-<p>Be part of an innovative engineering team delivering reliable, secure, and future-ready technology solutions.</p>",1,19,79,Trinity Solutions (Pvt.) Ltd,http://ilukauto.com,85,2026-10-11 17:56:54,2026-10-12
+<p>Be part of an innovative engineering team delivering reliable, secure, and future-ready technology solutions.</p>",1,19,79.0,Trinity Solutions (Pvt.) Ltd,http://ilukauto.com,85,2026-10-11 17:56:54,2026-10-12
 15432,E-Commerce Executive,"<p>Be a part of Reqzo and grow your career in the exciting world of e-commerce!</p>
 <p><strong>Job Responsibilities</strong></p>
 <ul>
@@ -1666,7 +1666,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Ability to manage social media, customer inquiries and online accounts.</li>
 <li>Willingness to work in our office.</li>
 </ul>
-<p><strong>Work Location</strong><br>No.12, Hulfstrop Street, Colombo 12</p>",1,40,79,Reqzo,https://www.reqzo.com,55,2026-10-11 17:36:45,2026-10-12
+<p><strong>Work Location</strong><br>No.12, Hulfstrop Street, Colombo 12</p>",1,40,79.0,Reqzo,https://www.reqzo.com,55,2026-10-11 17:36:45,2026-10-12
 14852,IT Assistant,"<p><strong>Requirements:</strong></p>
 <ul>
 <li>Diploma or Degree in IT, Computer Science, or a related field.</li>
@@ -1696,197 +1696,227 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Certified ISO 9001:2015 organization.</li>
 </ul>
 <p>If you feel you are the right individual for the above position, apply now.</p>",1,37,,Expo Ceylon,https://www.expoceylonplc.com,791,2026-10-11 17:12:16,2026-10-12
-15431,QA Engineer Intern,"<p>We&#8217;re hiring: QA Engineer Intern at Codeverse Labs<br>Learn how great software gets tested, from the first bug report to release day.</p>
-<p><strong>What you&#8217;ll do:</strong></p>
-<ul>
-<li>Run test cases and report bugs clearly</li>
-<li>Learn manual testing and the basics of test automation</li>
-<li>Verify fixes and help check every release</li>
-</ul>
-<p><strong>Who we&#8217;re looking for:</strong></p>
-<ul>
-<li>Final-year student or recent graduate in CS, IT or a related field</li>
-<li>A sharp eye for detail and a knack for finding what breaks</li>
-<li>Basic grasp of the software testing life cycle</li>
-</ul>",4,39,79,Codeverse Labs,https://www.codeverselabs.net,349,2026-10-10 23:47:31,2026-10-12
-15430,Graphic Designer & Video Editor – Intern (1–2 years ),"<p>Innovoo Solutions (Pvt) Ltd. is looking for a creative and motivated Graphic Designer &amp; Video Editor to join our team. We welcome interns as well as candidates with 1&#8211;2 years of experience.</p>
-<p>The ideal candidate should have skills in graphic design and video editing, along with an interest in<strong> </strong>digital marketing and social media profile management. This role involves working on diverse client projects, creating engaging visual content, editing videos, and supporting the management of social media platforms and digital campaigns.</p>
+15443,UI/UX Engineer Intern,"<p><strong>About the Role</strong></p>
+<p>This is a full-time, remote, fully unpaid internship offering opportunities to contribute to real-world projects, receive professional feedback, gain practical industry experience, and build a strong design portfolio.</p>
+<p>Please note that this internship is entirely unpaid. No salary, stipend, or other monetary compensation will be provided.</p>
+<p>Applicants are encouraged to showcase their previous design projects, UI/UX case studies, prototypes, or other relevant design work as part of their application.</p>
 <p><strong>Key Responsibilities</strong></p>
 <ul>
-<li>Design creative and engaging content for social media, digital campaigns, advertisements, and other marketing materials.</li>
-<li>Edit Reels, TikTok videos, promotional videos, corporate videos, and other short-form content.</li>
-<li>Create graphics and videos according to client brand guidelines and marketing objectives.</li>
-<li>Develop creative concepts and visual ideas for different client brands.</li>
-<li>Manage and maintain client <strong>social media profiles</strong>, including Facebook, Instagram, LinkedIn, TikTok, and other relevant platforms.</li>
-<li>Assist with planning, scheduling, and publishing social media content.</li>
-<li>Support the preparation and execution of digital marketing campaigns.</li>
-<li>Coordinate with the marketing team to develop content for monthly content calendars.</li>
-<li>Monitor social media pages and ensure content is published according to schedule.</li>
-<li>Make design and video revisions based on client and internal feedback.</li>
-<li>Stay updated with social media trends, design trends, video trends, and digital marketing practices.</li>
-<li>Manage multiple creative projects while meeting deadlines.</li>
+<li>Translate project requirements into user flows, wireframes, and interactive prototypes.</li>
+<li>Design responsive interfaces for websites, dashboards, and digital products.</li>
+<li>Create reusable components and maintain consistent layouts, typography, and colours.</li>
+<li>Review existing interfaces and suggest improvements to usability and accessibility.</li>
+<li>Prepare design specifications and assets for developer handover.</li>
+<li>Collaborate with developers to support accurate design implementation.</li>
+<li>Present design decisions and refine work based on feedback.</li>
+</ul>
+<p><strong>Key Requirements &amp; Qualifications</strong></p>
+<ul>
+<li>Currently pursuing a degree or diploma in UI/UX Design, Computer Science, IT, Multimedia, or a related field.</li>
+<li>Basic understanding of user-centred design, visual hierarchy, and accessibility.</li>
+<li>Familiarity with Figma or a similar interface design tool.</li>
+<li>Ability to create wireframes, prototypes, and responsive layouts.</li>
+<li>A portfolio featuring coursework, personal projects, or previous design work.</li>
+<li>Attention to detail and an interest in understanding user behaviour.</li>
+<li>Good communication skills and a willingness to learn through feedback.</li>
+<li>No previous professional experience required; academic and personal projects are welcome.</li>
+</ul>
+<p><strong>Application Requirements</strong></p>
+<p>Please prepare a single Google Drive folder containing the following:</p>
+<ul>
+<li><strong>CV/Resume:</strong> Your updated CV.</li>
+<li><strong>Portfolio &amp; Design Projects:</strong> Your UI/UX design projects, case studies, wireframes, prototypes, and other relevant design work.</li>
+</ul>
+<p>Place all documents and design projects in the same Google Drive folder and include the folder link in your application.</p>
+<p><strong>Important:</strong> Set the folder's general access to &#8220;Anyone with the link&#8221; and the permission to &#8220;Viewer&#8221; so that the recruitment team can review your documents and projects without requesting additional access.</p>
+<p><strong>Internship Details</strong></p>
+<ul>
+<li><strong>Position:</strong> UI/UX Design Intern</li>
+<li><strong>Work Type:</strong> Full-time</li>
+<li><strong>Work Arrangement:</strong> Remote</li>
+<li><strong>Compensation:</strong> Fully unpaid</li>
+<li><strong>Experience Level:</strong> Entry-level / Internship</li>
+</ul>
+<p>This internship is designed for individuals who want to develop their UI/UX design skills, gain practical experience working on real-world projects, and strengthen their professional portfolios.</p>",4,27,76,Kaishi Innovations,https://www.kaishiinnovations.com,47,2026-10-13 01:59:30,2026-10-13
+15442,Associate Project Manager (3 – 6 months Project),"<p><strong>About the Role</strong></p>
+<p>We are seeking an organized, proactive&#160;<strong data-path-to-node=""8"" data-index-in-node=""45"">Associate Project Manager</strong> on behalf of a prominent IT enterprise in Colombo. This is a 3-to-6-month full-time contract role with an immediate start.</p>
+<p>In this position, you will work closely with cross-functional software engineering teams in an Agile delivery environment to plan, track, and deliver high-quality software projects. You will be responsible for keeping projects on schedule, managing sprint activities, and maintaining active alignment across internal teams and external stakeholders.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul data-path-to-node=""12"">
+<li>Coordinate software development project lifecycles from sprint planning to deployment and release.</li>
+<li>Facilitate daily stand-ups, sprint planning, retrospectives, and backlog refinement sessions within an Agile environment.</li>
+<li>Work with technical teams and product owners to break down deliverables, manage task timelines, and mitigate risks.</li>
+<li>Serve as a primary point of contact for project updates, ensuring clear, consistent project visibility.</li>
+<li>Track project scope, milestones, and resource allocation to ensure on-time delivery.</li>
+</ul>
+<p><strong>Qualifications &amp; Requirements</strong></p>
+<ul data-path-to-node=""15"">
+<li><strong data-path-to-node=""15,0,0"" data-index-in-node=""0"">Experience:</strong> Minimum 2 years of hands-on experience in IT/Software Project Management.</li>
+<li><strong data-path-to-node=""15,1,0"" data-index-in-node=""0"">Background Preference:</strong> Prior working experience as a <strong data-path-to-node=""15,1,0"" data-index-in-node=""53"">Business Analyst (BA)</strong> is highly preferred.</li>
+<li><strong data-path-to-node=""15,2,0"" data-index-in-node=""0"">Agile Expertise:</strong> Proven experience working in Agile/Scrum environments for software development projects.</li>
+<li><strong data-path-to-node=""15,3,0"" data-index-in-node=""0"">Communication:</strong> Exceptional written and verbal English communication skills.</li>
+<li><strong data-path-to-node=""15,4,0"" data-index-in-node=""0"">Client Engagement:</strong> Direct experience managing or communicating with <strong data-path-to-node=""15,4,0"" data-index-in-node=""68"">international clients</strong> is a major advantage.</li>
+<li><strong data-path-to-node=""15,5,0"" data-index-in-node=""0"">Location:</strong> Ability to work full-time onsite or Hybrid mode in Colombo, Sri Lanka for the 3&#8211;6 month contract duration.</li>
+</ul>
+<p><strong>What&#8217;s on Offer</strong></p>
+<ul data-path-to-node=""18"">
+<li>Competitive contract-based remuneration package.</li>
+<li>High-impact exposure managing software projects with international touchpoints.</li>
+<li>Collaborative and dynamic team culture.</li>
+</ul>
+<p><strong>How to Apply</strong></p>
+<p>If you meet the requirements and are available for an immediate contract engagement, submit your updated CV today</p>",8,37,79,Wisdom RecruitmentS,https://wisdomrecruitments.com,108,2026-10-12 19:46:35,2026-10-13
+15441,Application Support Executive,"<p>Immediate Hiring - Application Support Executive</p>
+<p>&#128205; Colombo 02</p>
+<p>&#128197; Working Hours: Monday - Friday | 8 AM &#8211; 6 PM &amp; Saturday 8 AM - 1PM</p>
+<p>We are looking for an L1 Application Support Executive with 2+ years of relevant experience in application support.</p>
+<p>If you have hands-on experience in application troubleshooting and end-user support, we&#8217;d love to hear from you.</p>
+<p><strong>Candidate will be responsible for:</strong></p>
+<ul>
+<li>Handle user calls, emails, tickets and support queries.</li>
+<li>Resolve day-to-day application issues.</li>
+<li>Conduct system training for new users.</li>
+<li>User/product/pricelist master creation</li>
+<li>Application installation and testing.</li>
+<li>Coordinate with developers to report and resolve system issues.</li>
+<li>Support relevant month-end activities.</li>
+</ul>
+<p><strong>Required qualifications &amp; skills:</strong></p>
+<ul>
+<li>Higher National Diploma / Undergraduate qualification in IT or a related field</li>
+<li>Minimum 2+ years of experience in Application</li>
+<li>Support/Help Desk</li>
+<li>Good understanding of SFA systems and enterprise application environments</li>
+<li>Good communication and problem-solving skill</li>
+</ul>
+<p>An attractive remuneration package with related perquisites awaits the right<br>candidate.</p>
+<p>&#128233; &#120343;&#120365;&#120358;&#120354;&#120372;&#120358; &#120372;&#120361;&#120354;&#120371;&#120358; &#120378;&#120368;&#120374;&#120371; &#120330;&#120349; &#120368;&#120367;&#120365;&#120378; &#120362;&#120359; &#120378;&#120368;&#120374;&#120371; &#120358;&#120377;&#120369;&#120358;&#120371;&#120362;&#120358;&#120367;&#120356;&#120358; &#120366;&#120354;&#120373;&#120356;&#120361;&#120358;&#120372; &#120373;&#120361;&#120358; &#120354;&#120355;&#120368;&#120375;&#120358; &#120371;&#120358;&#120370;&#120374;&#120362;&#120371;&#120358;&#120366;&#120358;&#120367;&#120373;&#120372;.</p>",1,37,79,SevenX,https://sevenx.lk,109,2026-10-12 19:45:08,2026-10-13
+15440,Project Coordinator (3–6 Months Contract),"<p><strong>About the Role</strong></p>
+<p>We are seeking an organized and highly articulate <strong data-path-to-node=""7"" data-index-in-node=""56"">Project Coordinator</strong> on behalf of a leading technology enterprise in Colombo. This is a 3-to-6-month full-time contract position (Onsite / Hybrid).</p>
+<p>In this role, you will support project managers and tech teams by organizing project workflows, maintaining documentation, tracking task completion, and ensuring clear communication across project stakeholders.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul data-path-to-node=""11"">
+<li>Assist project managers in tracking project timelines, action items, and deliverables across software projects.</li>
+<li>Organize project meetings, record concise meeting minutes (MOMs), and follow up on assigned task items.</li>
+<li>Maintain project documentation, schedules, status reports, and administrative records.</li>
+<li>Act as a reliable liaison between technical teams, project leads, and internal/external stakeholders.</li>
+<li>Monitor project resource allocation, track task bottlenecks, and help maintain project momentum.</li>
+</ul>
+<p><strong>Qualifications &amp; Requirements</strong></p>
+<ul data-path-to-node=""14"">
+<li><strong data-path-to-node=""14,0,0"" data-index-in-node=""0"">Experience:</strong> Prior hands-on experience working as a Project Coordinator, ideally within an IT or software environment.</li>
+<li><strong data-path-to-node=""14,1,0"" data-index-in-node=""0"">Communication:</strong> Exceptional verbal and written English communication skills.</li>
+<li><strong data-path-to-node=""14,2,0"" data-index-in-node=""0"">Organizational Skills:</strong> Strong attention to detail, multitasking capability, and proficiency with project tracking tools (e.g., Jira, Trello, Asana, MS Excel).</li>
+<li><strong data-path-to-node=""14,3,0"" data-index-in-node=""0"">Work Setup:</strong> Ability to work full-time (Onsite or Hybrid) out of Colombo, Sri Lanka for the 3&#8211;6 month contract duration.</li>
+</ul>
+<p><strong>What&#8217;s on Offer</strong></p>
+<ul data-path-to-node=""17"">
+<li>Competitive contract-based compensation.</li>
+<li>Direct exposure working with fast-paced IT project delivery teams.</li>
+<li>Collaborative and supportive work environment.</li>
+</ul>",8,37,79,Wisdom RecruitmentS,https://wisdomrecruitments.com,44,2026-10-12 19:43:55,2026-10-13
+15439,Quality Engineer (SDET),"<p>We're Hiring &#8211; Quality Engineer (SDET)</p>
+<p><strong>What we're looking for:</strong></p>
+<ul>
+<li>Degree in Computer Science/Software Engineering or equivalent</li>
+<li>1&#8211;2+ years of test-automation experience.</li>
+<li>Strong coding skills in JavaScript/TypeScript (or Java/Python), with solid understanding of OOP, async patterns and debugging.</li>
+<li>Hands-on Playwright (or Selenium/Cypress) and API automation experience; familiarity with test doubles/mocks.</li>
+<li>Working knowledge of CI/CD (GitHub Actions/Jenkins/Azure DevOps), Docker basics and Git workflows.</li>
+<li>Understanding of the capital-markets domain (order management, market data, portfolios) or ability to acquire it quickly.</li>
+<li>ISTQB Foundation; ISTQB Test Automation Engineer desirable.</li>
+</ul>
+<p>Apply now and be part of #TeamDirectFN</p>",1,39,79,DirectFN,https://directfn.lk,93,2026-10-12 19:33:17,2026-10-13
+15438,Business Analyst / Project Manager Intern – Internship,"<p>CyphLab (Pvt) Ltd is looking for a motivated Business Analyst / Project Manager Intern to join our team and work on real-world software, mobile app, and AI projects.</p>
+<p>This is a paid internship designed for candidates who are interested in both Business Analysis and Project Management and want to gain practical industry experience.</p>
+<p>Key Responsibilities:</p>
+<ul>
+<li>Gather and analyze client requirements</li>
+<li>Conduct client discussions and clarify project requirements</li>
+<li>Create user flows, feature lists, and basic project documentation</li>
+<li>Coordinate with development, UI/UX, and QA teams</li>
+<li>Manage project tasks, timelines, and milestones</li>
+<li>Track project progress and provide regular updates</li>
+<li>Assist with client communication and project delivery</li>
+<li>Identify project issues and help coordinate solutions</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>Basic understanding of Business Analysis and Project Management</li>
+<li>Good communication and presentation skills</li>
+<li>Strong organizational and problem-solving skills</li>
+<li>Ability to communicate professionally with clients and team members</li>
+<li>Basic understanding of software development processes</li>
+<li>Ability to manage multiple tasks and follow deadlines</li>
+<li>Willingness to learn and work in a fast-paced technology environment</li>
+<li>Familiarity with tools such as Jira, Trello, ClickUp, Notion, or similar will be an advantage</li>
+</ul>
+<p>Internship Details:</p>
+<ul>
+<li>Paid Internship</li>
+<li>First 4 months &#8211; Remote</li>
+<li>After the first 4 months &#8211; Hybrid work arrangement</li>
+<li>Hands-on experience with real client projects</li>
+<li>Opportunity for learning and career growth</li>
+</ul>
+<p>How to Apply:</p>
+<p>Please send your CV to:</p>
+<p>careers@cyphlab.com</p>
+<p>Email Subject:</p>
+<p>Business Analyst / Project Manager Intern Application &#8211; [Your Name]</p>
+<p>Company: CyphLab (Pvt) Ltd</p>
+<p>Website: www.cyphlab.com</p>",4,20,76,CyphLab (PVT) LTD,https://www.cyphlab.com,173,2026-10-12 17:23:38,2026-10-13
+13689,UI/UX Designer Intern,"<p>We are seeking a creative UI/UX Designer Intern to design intuitive, visually appealing, and user-centered digital experiences. You will work closely with developers and product teams to understand user requirements and translate them into effective design solutions.</p>
+<p>In this role, you will be involved in the entire design process, including research, wireframing, prototyping, and usability testing. You will also help improve existing designs by identifying user pain points and enhancing overall usability. This internship is ideal for someone who is passionate about design and wants to build a strong portfolio with real-world projects.</p>",4,27,76,LoopLab (Pvt) Ltd,https://looplab.lk/,1165,2026-10-12 14:32:47,2026-10-13
+13687,Project Management Intern,"<p><strong>Overview</strong> <br>We are seeking a motivated and detail-oriented Project Management Interns to join our dynamic team. In this role, you will play a crucial part in supporting the planning and execution of various projects. Your organizational skills will help ensure that tasks are coordinated effectively, progress is tracked efficiently, and project timelines and deliverables are achieved.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Assist in the coordination of project tasks and activities across multiple teams.</li>
+<li>Track project progress and update stakeholders on timelines and deliverables.</li>
+<li>Participate in team meetings, contributing insights and taking notes for project documentation.</li>
+<li>Support the management of project documentation, including reports, schedules, and action items.</li>
+<li>Gain practical experience with project management methodologies such as Agile and Scrum.</li>
+<li>Collaborate with cross-functional teams to foster effective communication and teamwork.</li>
 </ul>
 <p><strong>Requirements</strong></p>
 <ul>
-<li>Interns or candidates with 1&#8211;2 years of relevant experience are encouraged to apply.</li>
-<li>A Degree, Diploma, or relevant qualification in Media Arts Production Technology, Multimedia, Graphic Design, Digital Media, Visual Communication, or a related field.</li>
-<li>Proficiency in graphic design tools such as Adobe Photoshop, Adobe Illustrator, and Canva.</li>
-<li>Proficiency in video editing tools such as Adobe Premiere Pro, Adobe After Effects, and CapCut.</li>
-<li>Knowledge of digital marketing and social media profile management.</li>
-<li>Understanding of content creation for Facebook, Instagram, LinkedIn, TikTok, and other digital platforms.</li>
-<li>Creativity with a strong eye for design, visual storytelling, and attention to detail.</li>
-<li>Good communication, teamwork, and time-management skills.</li>
-<li>Ability to manage multiple tasks and work according to deadlines.</li>
-<li>Willingness to learn, accept feedback, and adapt to different client requirements.</li>
-<li>A portfolio showcasing graphic design and/or video editing work is required.</li>
+<li>Strong organizational skills and attention to detail.</li>
+<li>Ability to manage multiple tasks and prioritize effectively.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Eagerness to learn about project management processes and methodologies.</li>
+<li>Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) and familiarity with project management tools is a plus.</li>
 </ul>
-<p><strong>Job Type:</strong> Internship / Full-Time</p>
-<p><strong>Work Arrangement:</strong> Onsite</p>
-<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",4,27,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,98,2026-10-10 09:42:34,2026-10-12
-15429,Technical Lead - .NET,"<p><strong>About Insighture</strong></p>
-<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
-<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
-<p><strong>Key Responsibilities</strong></p>
+<p><strong>Qualifications</strong></p>
 <ul>
-<li>Providing technical leadership and ensuring architectural integrity and software engineering best practices.</li>
-<li>Collaborating with clients and stakeholders to define requirements, manage timelines, and present outcomes effectively.</li>
-<li>Designing, developing, and maintaining robust applications, translating business needs into technical specifications and clean code.</li>
-<li>Conducting code reviews, troubleshooting complex issues, and ensuring code quality and maintainability.</li>
-<li>Recommending innovative solutions to enhance system performance, scalability, and security.</li>
+<li>Currently pursuing a degree in Project Management, Business Administration, or a related field.</li>
+<li>Previous experience in project management, internships, or related activities is advantageous but not mandatory.</li>
+<li>A proactive attitude and willingness to take initiative in a collaborative environment.</li>
 </ul>
-<p><strong>Requirements</strong></p>
+<p><strong>Benefits</strong></p>
 <ul>
-<li>Bachelor&#8217;s degree in Computer Science, Software Engineering, or equivalent experience.</li>
-<li>6+ years of proven experience in backend development using C# and .NET technologies.</li>
-<li>Strong understanding of web APIs and microservices architecture.</li>
-<li>Hands-on experience with modern JavaScript frontend frameworks (e.g., React, Angular, or Vue).</li>
-<li>Solid grasp of software design patterns, Object-Oriented Programming (OOP), and clean architecture.</li>
-<li>Experience with unit testing, automated testing, and Agile methodologies.</li>
-<li>Experience with major cloud platforms (e.g., Azure, AWS, or GCP) and CI/CD pipelines.</li>
-<li>Proficiency with relational databases (SQL) and ORMs</li>
+<li>Gain hands-on experience in project management and exposure to industry best practices.</li>
+<li>Work closely with experienced professionals and expand your professional network.</li>
+<li>Opportunity to contribute to meaningful projects and develop essential skills for your career.</li>
+<li>Flexible scheduling to accommodate your academic commitments.</li>
 </ul>
-<p><strong>Why Insighture?</strong></p>
-<ul>
-<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
-<li>Grow in your role with mentorship and the chance to lead on projects.</li>
-<li>Access sponsored counselling, family medical insurance and checkups.</li>
-<li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,21,79,Insighture,https://www.insighture.com,105,2026-10-09 21:54:36,2026-10-12
-15428,Senior Software Engineer - .NET,"<p><strong>About Insighture</strong></p>
-<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
-<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Providing technical leadership and ensuring architectural integrity and software engineering best practices.</li>
-<li>Collaborating with clients and stakeholders to define requirements, manage timelines, and present outcomes effectively.</li>
-<li>Designing, developing, and maintaining robust applications, translating business needs into technical specifications and clean code.</li>
-<li>Conducting code reviews, troubleshooting complex issues, and ensuring code quality and maintainability.</li>
-<li>Recommending innovative solutions to enhance system performance, scalability, and security.</li>
+<p><strong>Apply here:</strong> https://looplab.lk/careers/</p>
+<p>If you are passionate about project management and looking to kickstart your career in a supportive environment, we encourage you to apply for this exciting internship opportunity!</p>",4,20,76,LoopLab (Pvt) Ltd,http://loopzglobal.com/,1275,2026-10-12 14:32:42,2026-10-13
+14537,Python Developer Intern,"<p>We are looking for a passionate Python Developer Intern to join our engineering team and contribute to building scalable and efficient backend systems. In this role, you will work closely with senior developers to design, develop, and maintain server-side applications, APIs, and data-driven solutions. You will gain hands-on experience in writing clean, maintainable code while learning best practices in software development, debugging, and performance optimization.</p>
+<p>As a Python Developer Intern, you will also be involved in integrating third-party services, handling database operations, and supporting deployment processes. This role is ideal for someone who is eager to strengthen their backend development skills and work on real-world projects in a collaborative environment.</p>",4,21,76,LoopLab (Pvt) Ltd,https://looplab.lk/,926,2026-10-12 14:32:34,2026-10-13
+14538,MERN Stack Developer Intern,"<p>We are seeking a motivated MERN Stack Developer Intern to assist in developing modern, high-performance web applications. You will work across both frontend and backend technologies using MongoDB, Express.js, React, and Node.js. This role provides an excellent opportunity to gain practical experience in full stack development by contributing to real-world projects.</p>
+<p>You will collaborate with designers, backend developers, and project teams to implement user-friendly interfaces, develop APIs, and ensure seamless integration between client and server. The internship will also expose you to best practices in coding, debugging, testing, and deploying applications in a production environment.</p>
+<p><strong><em data-start=""2468"" data-end=""2487"">Technical Skills:</em></strong></p>
+<ul data-start=""2490"" data-end=""2717"">
+<li data-section-id=""rahhxd"" data-start=""2490"" data-end=""2556"">Basic understanding of MongoDB, Express.js, React, and Node.js</li>
+<li data-section-id=""1trpx56"" data-start=""2557"" data-end=""2591"">Knowledge of JavaScript (ES6+)</li>
+<li data-section-id=""1gnke00"" data-start=""2592"" data-end=""2622"">Familiarity with REST APIs</li>
+<li data-section-id=""i8pcjm"" data-start=""2623"" data-end=""2683"">Basic understanding of frontend technologies (HTML, CSS)</li>
+<li data-section-id=""jdxg5r"" data-start=""2684"" data-end=""2717"">Experience with Git is a plus</li>
 </ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>Bachelor&#8217;s degree in Computer Science, Software Engineering, or equivalent experience.</li>
-<li>4+ years of proven experience in backend development using C# and .NET technologies.</li>
-<li>Strong understanding of web APIs and microservices architecture.</li>
-<li>Hands-on experience with modern JavaScript frontend frameworks (e.g., React, Angular, or Vue).</li>
-<li>Solid grasp of software design patterns, Object-Oriented Programming (OOP), and clean architecture.</li>
-<li>Experience with unit testing, automated testing, and Agile methodologies.</li>
-<li>Experience with major cloud platforms (e.g., Azure, AWS, or GCP) and CI/CD pipelines.</li>
-<li>Proficiency with relational databases (SQL) and ORMs</li>
-</ul>
-<p><strong>Why Insighture?</strong></p>
-<ul>
-<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
-<li>Grow in your role with mentorship and the chance to lead on projects.</li>
-<li>Access sponsored counselling, family medical insurance and checkups.</li>
-<li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,21,79,Insighture,https://www.insighture.com,124,2026-10-09 21:52:09,2026-10-12
-15427,Quality Engineering Lead,"<p><strong>About Insighture</strong></p>
-<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
-<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Design risk-based test scenarios, boundary matrices, and edge-case suites for complex product workflows.</li>
-<li>Execute hands-on functional, exploratory, and regression testing before features move to automation.</li>
-<li>Conduct defect root-cause analysis (RCA) and drive or actively contribute to defect triage sessions</li>
-<li>Build and maintain scalable UI (Playwright, Cypress, or Selenium) and API automated test suites using C# / .NET, Java, or TypeScript/JavaScript.</li>
-<li>Automate critical manual regression suites and integrate them as automated quality gates in CI/CD pipelines (e.g., Azure DevOps, GitHub Actions, GitLab CI, or Jenkins).</li>
-<li>Run baseline performance and load tests using k6 or JMeter to catch throughput issues early.</li>
-<li>Use AI tools (e.g., Claude, Cursor, GitHub Copilot) to speed up test design, script creation, and data generation.</li>
-<li>Identify opportunities to introduce intelligent testing practices that enhance overall team productivity and reduce repetitive QA overhead.</li>
-<li>Lead manual and automated verification of reporting modules, dashboards, and data pipelines.</li>
-<li>Write complex SQL queries (joins, aggregations) to validate backend data integrity against frontend reports and export formats (PDF, CSV, Excel).</li>
-<li>Plan and execute hands-on cross-squad SIT to validate shared interfaces, APIs, and critical dependencies across services.</li>
-<li>Review test plans and automation PRs, championing clean code and shift-left quality practices.</li>
-<li>Track and communicate baseline quality metrics (Defect Escape Rate, Automation Pass Rate, SIT Cycle Time).</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>6+ years of total QA experience, demonstrating a strong balance between hands-on manual testing and test automation.</li>
-<li>Hands-on UI &amp; API Automation: Practical coding proficiency in C# / .NET or Java (alongside TypeScript/JavaScript) using frameworks like Playwright, Selenium, or Cypress, plus REST/GraphQL API testing (REST Assured, Postman, or native HTTP client libraries).</li>
-<li>Strong SQL &amp; Data Testing: Proven ability to query relational databases to validate complex calculation engines, data transformations, and reporting outputs.</li>
-<li>Modern Tooling &amp; CI/CD: Practical experience with Git, CI/CD pipeline integration (Azure DevOps, GitHub Actions, or Jenkins), and Jira-based test management (Xray, Zephyr, or TestRail).</li>
-<li>Cross-Squad SIT Execution: Hands-on experience executing end-to-end SIT cycles across squad boundaries, validating shared APIs/data flows, and driving defect triage directly with engineers</li>
-</ul>
-<p><strong>Why Insighture?</strong></p>
-<ul>
-<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
-<li>Grow in your role with mentorship and the chance to lead on projects.</li>
-<li>Access sponsored counselling, family medical insurance and checkups.</li>
-<li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,39,79,Insighture,https://www.insighture.com,55,2026-10-09 21:47:31,2026-10-12
-15426,Senior Quality Engineer - Automation,"<p><strong>About Insighture</strong></p>
-<p>Insighture is a leading technology consultancy that drives digital transformation for businesses worldwide. With a team of over 85 expert consultants, the company delivers tailored, high-impact strategies and solutions, enabling scalable product engineering.</p>
-<p>As an AWS partner, Insighture excels in co-integrated cloud services. We've collaborated with more than 50 clients globally, guiding them through cloud adoption, DevOps transformation, enterprise modernisation, and more. Our capabilities span Cloud-Native Development, Artificial Intelligence, and DevSecOps, empowering businesses to achieve impactful and innovative outcomes.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Design risk-based test scenarios, boundary matrices, and edge-case suites for complex product workflows.</li>
-<li>Execute hands-on functional, exploratory, and regression testing before features move to automation.</li>
-<li>Conduct defect root-cause analysis (RCA) and drive or actively contribute to defect triage sessions</li>
-<li>Build and maintain scalable UI (Playwright, Cypress, or Selenium) and API automated test suites using C# / .NET, Java, or TypeScript/JavaScript.</li>
-<li>Automate critical manual regression suites and integrate them as automated quality gates in CI/CD pipelines (e.g., Azure DevOps, GitHub Actions, GitLab CI, or Jenkins).</li>
-<li>Run baseline performance and load tests using k6 or JMeter to catch throughput issues early.</li>
-<li>Use AI tools (e.g., Claude, Cursor, GitHub Copilot) to speed up test design, script creation, and data generation.</li>
-<li>Identify opportunities to introduce intelligent testing practices that enhance overall team productivity and reduce repetitive QA overhead.</li>
-<li>Lead manual and automated verification of reporting modules, dashboards, and data pipelines.</li>
-<li>Write complex SQL queries (joins, aggregations) to validate backend data integrity against frontend reports and export formats (PDF, CSV, Excel).</li>
-<li>Plan and execute hands-on cross-squad SIT to validate shared interfaces, APIs, and critical dependencies across services.</li>
-<li>Review test plans and automation PRs, championing clean code and shift-left quality practices.</li>
-<li>Track and communicate baseline quality metrics (Defect Escape Rate, Automation Pass Rate, SIT Cycle Time).</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>6+ years of total QA experience, demonstrating a strong balance between hands-on manual testing and test automation.</li>
-<li>Hands-on UI &amp; API Automation: Practical coding proficiency in C# / .NET or Java (alongside TypeScript/JavaScript) using frameworks like Playwright, Selenium, or Cypress, plus REST/GraphQL API testing (REST Assured, Postman, or native HTTP client libraries).</li>
-<li>Strong SQL &amp; Data Testing: Proven ability to query relational databases to validate complex calculation engines, data transformations, and reporting outputs.</li>
-<li>Modern Tooling &amp; CI/CD: Practical experience with Git, CI/CD pipeline integration (Azure DevOps, GitHub Actions, or Jenkins), and Jira-based test management (Xray, Zephyr, or TestRail).</li>
-<li>Cross-Squad SIT Execution: Hands-on experience executing end-to-end SIT cycles across squad boundaries, validating shared APIs/data flows, and driving defect triage directly with engineers</li>
-</ul>
-<p><strong>Why Insighture?</strong></p>
-<ul>
-<li>Freedom to work hybrid or on-site. Be a digital nomad if you like.</li>
-<li>Grow in your role with mentorship and the chance to lead on projects.</li>
-<li>Access sponsored counselling, family medical insurance and checkups.</li>
-<li>Get your salary pegged to the Australian dollar for financial stability.</li>
-</ul>",1,39,79,Insighture,https://www.insighture.com,57,2026-10-09 21:38:53,2026-10-12
-15425,Project Manager,"<p>Are you an experienced Project Manager who enjoys leading software delivery, working with customers and coordinating cross-functional teams? Join OKLO and help deliver innovative digital solutions across the globe.</p>
-<p><strong>What You'll Do</strong></p>
-<ul>
-<li>Lead Project Delivery - Manage projects end-to-end ensuring delivery within agreed&#160;scope, timelines and quality standards</li>
-<li>Plan &amp; Track - Develop project plans, milestones, dependencies and delivery schedules</li>
-<li>Manage Customers &amp; Stakeholders. Build strong relationships, manage expectations and maintain clear communication</li>
-<li>Coordinate Teams - Work closely with BA, Product, Architecture, Development, QA and Application Operations teams</li>
-<li>Manage Risks &amp; Issues identify risks, dependencies and delivery challenges and drive them towards resolution</li>
-<li>Manage Scope &amp; Changes Evaluate change requests and manage their impact on timelines, resources and deliverables.</li>
-<li>Project Reporting &amp; Governance Maintain project status reports, RAID logs, action trackers and dashboards</li>
-</ul>
-<p><strong>What We're Looking For</strong></p>
-<ul>
-<li>2-3 years' experience in Project Management, Software Delivery or IT Project Management.</li>
-<li>Good understanding of SDLC and Agile/Scrum</li>
-<li>Strong customer and stakeholder management skills</li>
-<li>Excellent problem-solving and analytical abilities &#8226;Experience in Travel Tech,</li>
-<li>Commodity Auction, ERP or enterprise software is an advantage</li>
-</ul>
-<p><strong>Why OKLO?</strong></p>
-<p>Work at the intersection of Technology Customers-Product Delivery, managing exciting software projects and helping transform complex business requirements into successful digital solutions</p>",1,20,79,OKLO Private Limited,https://www.okloworld.com,121,2026-10-09 20:39:52,2026-10-12
+<p><strong><em data-start=""2719"" data-end=""2733"">Soft Skills:</em></strong></p>
+<ul data-start=""2736"" data-end=""2848"">
+<li data-section-id=""ae5dwh"" data-start=""2736"" data-end=""2767"">Strong willingness to learn</li>
+<li data-section-id=""10eywm0"" data-start=""2768"" data-end=""2797"">Team collaboration skills</li>
+<li data-section-id=""11eu1pw"" data-start=""2798"" data-end=""2821"">Attention to detail</li>
+<li data-section-id=""n8zp4c"" data-start=""2822"" data-end=""2848"">Time management skills</li>
+</ul>",4,21,76,LoopLab (Pvt) Ltd,https://looplab.lk/,1300,2026-10-12 14:32:23,2026-10-13
