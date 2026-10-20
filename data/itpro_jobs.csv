@@ -3390,261 +3390,241 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Proven ability to lead, coach and develop large teams while building a culture of accountability, collaboration and continuous improvement.</li>
 </ul>
 <p>Work Week: Monday to Friday<br>Shift (SLST):&#160;Night shift (6:30 PM - 2:30 AM)</p>",1,20,79.0,Zyentara Solutions,https://zyentarasolutions.com,6,2026-10-17 22:55:55,2026-10-18
-15452,Backend Engineer Intern,"<p><strong>Job Summary</strong></p>
-<p>We are looking for a motivated Backend Engineer Intern to join our development team. The intern will gain hands-on experience in backend development using Laravel or Go Lang, working on real-world projects, APIs, databases and scalable applications.</p>
-<p><strong>Job-related duties and responsibilities:</strong></p>
+15005,Software Quality Assurance (QA) - Internship,"<p>&#128640; INTERNSHIP VACANCY &#8211; SOFTWARE QUALITY ASSURANCE (QA)</p>
+<p>Finakle ERP Solutions (Pvt) Ltd is looking for enthusiastic interns to test our latest cloud-based ERP solution.</p>
+<p>The selected interns will gain practical experience testing:</p>
 <ul>
-<li>Develop and maintain backend applications using Laravel or Go Lang.</li>
-<li>Assist in developing and integrating RESTful APIs.</li>
-<li>Work with databases such as MySQL and PostgreSQL.</li>
-<li>Debug and resolve technical issues.</li>
-<li>Write clean, efficient and maintainable code.</li>
-<li>Use Git for version control and collaborate with the development team.</li>
-<li>Assist with testing, deployment and backend improvements.</li>
+<li>Accounting and Finance</li>
+<li>Inventory and Purchasing</li>
+<li>Sales and Retail POS</li>
+<li>Restaurant POS</li>
+<li>Hotel &amp; Reservations Management</li>
+<li>Payroll and HR functions</li>
+<li>Reports and user permissions</li>
 </ul>
-<p><strong>Required qualifications, experience and skills:</strong></p>
+<p>Key Responsibilities:</p>
 <ul>
-<li>Bachelors' Degree in Computer Science, Software Engineering or a related field (or equivalent experience).</li>
-<li>Basic knowledge of PHP Laravel or Go Lang. Understanding of REST APIs and databases.</li>
-<li>Familiarity with Git and version control.</li>
-<li>Good problem-solving and teamwork skills. Willingness to learn and work with new technologies.</li>
-</ul>",4,21,79,Delivergate,https://delivergate.com,1032,2026-10-18 06:37:21,2026-10-19
-15500,UI/UX Designer Intern,"<p><strong>Job Type:</strong> Full-Time Internship</p>
-<p><strong>Work Mode:</strong> Remote</p>
-<p><strong>Compensation:</strong> Unpaid Internship</p>
-<p><strong>Experience Level:</strong> Internship / Entry-Level</p>
-<p><strong>About the Role</strong></p>
-<p>We are looking for a motivated and creative <strong>UI/UX Designer Intern</strong> to join our team and contribute to real-world digital products and projects.</p>
-<p>This is a <strong>full-time, fully remote, unpaid internship</strong> designed for students and aspiring designers who want to gain practical industry experience, receive professional feedback, improve their design skills, and build a strong UI/UX portfolio.</p>
-<p>Please note that this internship is <strong>entirely unpaid</strong>. No salary, stipend, or other monetary compensation will be provided.</p>
-<p>Candidates are encouraged to showcase their previous UI/UX projects, case studies, prototypes, portfolio websites, coursework, or personal design projects as part of the application.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul data-spread=""false"">
-<li>Translate project requirements into user flows, wireframes, and interactive prototypes.</li>
-<li>Design responsive interfaces for websites, dashboards, and digital products.</li>
-<li>Create reusable UI components and maintain consistency across layouts, typography, colours, and design elements.</li>
-<li>Review existing interfaces and identify opportunities to improve usability, accessibility, and overall user experience.</li>
-<li>Prepare design specifications, assets, and documentation for developer handover.</li>
-<li>Collaborate with developers to support accurate implementation of UI/UX designs.</li>
-<li>Present design decisions and explain the reasoning behind design choices.</li>
-<li>Incorporate feedback and continuously refine designs based on user and project requirements.</li>
-<li>Contribute to maintaining consistent design systems and UI patterns across projects.</li>
+<li>Test ERP features using real business scenarios</li>
+<li>Identify software errors and usability issues</li>
+<li>Prepare clear bug reports with screenshots and reproduction steps</li>
+<li>Verify completed fixes</li>
+<li>Assist with system documentation and test-data entry</li>
+<li>Suggest improvements to the user experience</li>
 </ul>
-<p><strong>Key Requirements &amp; Qualifications</strong></p>
-<ul data-spread=""false"">
-<li>Currently pursuing a <strong>degree or diploma in UI/UX Design, Computer Science, IT, Multimedia, or a related field</strong>.</li>
-<li>Basic understanding of <strong>user-centred design, visual hierarchy, usability, and accessibility</strong>.</li>
-<li>Familiarity with <strong>Figma</strong> or a similar UI/UX design tool.</li>
-<li>Ability to create <strong>wireframes, prototypes, and responsive interface designs</strong>.</li>
-<li>A portfolio featuring coursework, personal projects, UI/UX case studies, prototypes, or previous design work.</li>
-<li>Strong attention to detail and an interest in understanding user behaviour.</li>
-<li>Good communication and collaboration skills.</li>
-<li>Willingness to learn, receive feedback, and improve design skills.</li>
-<li><strong>No previous professional experience is required.</strong> Academic, coursework, personal, and self-initiated projects are welcome.</li>
-</ul>
-<p><strong>What You Will Gain</strong></p>
-<ul data-spread=""false"">
-<li>Practical experience working on real-world digital products.</li>
-<li>Exposure to professional UI/UX workflows and design processes.</li>
-<li>Guidance and feedback from experienced team members.</li>
-<li>Experience collaborating with developers and other team members.</li>
-<li>Opportunities to improve your design thinking and problem-solving skills.</li>
-<li>Practical experience with responsive UI design, prototyping, and developer handoff.</li>
-<li>Portfolio-building opportunities through real project contributions.</li>
-</ul>
-<p><strong>Application Requirements</strong></p>
-<p>Applicants are required to submit:</p>
-<ol>
-<li>CV / Resume</li>
-</ol>
-<p>Please provide your updated CV/resume.</p>
-<ol>
-<li>Portfolio / Design Work</li>
-</ol>
-<p>Please include your previous UI/UX design projects, case studies, prototypes, coursework, personal projects, or other relevant design work.</p>
-<p>Applicants may provide a <strong>portfolio website link</strong> or a <strong>Google Drive folder</strong> containing their design work.</p>
-<p>If you are submitting a Google Drive folder, please ensure that:</p>
-<p><strong>General Access:</strong> Anyone with the link</p>
-<p><strong>Permission:</strong> Viewer</p>
-<p>This is required so our recruitment team can access and review your documents without requesting additional permission.</p>
-<p><strong>Important Note</strong></p>
-<p>This is a <strong>full-time, fully remote, unpaid internship</strong>.</p>
-<p>No salary, stipend, allowance, or other monetary compensation will be provided during the internship.</p>
-<p>The internship is intended for candidates who are primarily seeking <strong>practical industry experience, professional feedback, mentorship, and portfolio development</strong>.</p>
-<p><strong>How to Apply</strong></p>
-<p>Please submit your <strong>updated CV and UI/UX portfolio/design work</strong> through the application process.</p>
-<p>For Google Drive submissions, please place your CV and relevant design projects in <strong>one folder</strong> and ensure the folder is accessible using:</p>
-<p><strong>Anyone with the link &#8594; Viewer</strong></p>
-<p>Applications containing relevant portfolio work will be considered during the screening process.</p>",4,27,76,Kaishi Innovations,https://www.kaishiinnovations.com,152,2026-10-18 01:17:05,2026-10-19
-15498,Developer Intern,"<p>Ready to build beyond tutorials?</p>
-<p>FocalDive is hiring a Developer Intern for our on-site team in Puttalam.</p>
-<p>Get involved in application development, contribute to features and strengthen your coding, debugging and teamwork skills.</p>
-<p><strong>What You'll Do</strong></p>
+<p>Candidate Requirements:</p>
 <ul>
-<li>Build web &amp; mobile features</li>
-<li>Fix bugs &amp; improve apps</li>
-<li>Work with APIs &amp; databases</li>
+<li>Undergraduate, diploma student, or recent graduate in IT, Software Engineering, Accounting, Business Management, or a related field</li>
+<li>Basic knowledge of software testing or accounting will be an advantage</li>
+<li>Good analytical and problem-solving skills</li>
+<li>Strong attention to detail</li>
+<li>Ability to communicate clearly in English</li>
+<li>Willingness to learn ERP business processes</li>
 </ul>
-<p><strong>We're Looking For&#160;</strong></p>
+<p>What You Will Gain:</p>
 <ul>
-<li>Basic JavaScript skills</li>
-<li>Problem-solving mindset</li>
-<li>Willingness to learn</li>
+<li>Hands-on experience with a complete ERP platform</li>
+<li>Practical software QA and bug-reporting experience</li>
+<li>Knowledge of accounting, inventory, POS, payroll, and restaurant operations</li>
+<li>Internship certificate upon successful completion</li>
+<li>Opportunity to be considered for future employment based on performance</li>
 </ul>
-<p>Basic programming knowledge is required. Familiarity with React, Next.js,&#160;<br>Node.js and Git will be an advantage.</p>
-<p><em>Work mode: On-site | Puttalam</em></p>",4,21,87,FocalDive,https://focaldive.io,265,2026-10-17 23:55:22,2026-10-19
-15497,QA Intern,"<p>Have an eye for detail and an interest in software quality?</p>
-<p>FocalDive is looking for a QA Intern to help test web and mobile applications, report bugs and improve the user experience.</p>
-<p>Work mode: Remote</p>
-<p><strong>What You'll Do</strong></p>
+<p>&#128205; Location: Gampaha</p>
+<p>&#128197; Internship Period: 6 Months</p>
+<p>&#128176; Allowance: Negotiable</p>
+<p>Interested candidates can send their CV to:</p>
+<p>&#128231; icscomsys@gmail.com</p>
+<p>&#128241; 0777 20 63 53</p>
+<p>Email Subject: Application for Software QA Internship</p>
+<p>Join us and contribute to the development of the next generation of Finakle ERP.</p>",4,39,80,Finakle Management Solutions (Pvt) Ltd,https://finakleerp.com,560,2026-10-19 23:12:13,2026-10-20
+15516,UI/UX Designer Intern,"<p><strong>About the Role</strong></p>
+<p>Are you passionate about creating beautiful, intuitive, and user-friendly digital experiences? Kangaro Tech is looking for a creative and motivated <strong>UI/UX Designer Intern</strong> to join our team and help design engaging digital products.</p>
+<p>This is a great opportunity to gain hands-on experience working on real-world software projects alongside our development team.</p>
+<p><strong>Responsibilities</strong></p>
 <ul>
-<li>Test applications</li>
-<li>Find bugs</li>
-<li>Prepare test cases</li>
-</ul>
-<p><strong>We're Looking For</strong></p>
-<ul>
-<li>Attention to detail</li>
-<li>Basic testing knowledge</li>
-<li>Willingness to learn</li>
-</ul>
-<p>If you understand the basics of software testing and are ready to learn through practical work, we would like to hear from you.</p>",4,39,87,FocalDive,https://focaldive.io,143,2026-10-17 23:52:06,2026-10-19
-15496,Senior Software Engineer - AI,"<p>We're Hiring - Senior Software Engineer - AI&#160;</p>
-<p><strong>What we're looking for:</strong></p>
-<ul>
-<li>Degree in Computer Science/Software Engineering or equivalent</li>
-<li>Minimum 4 years of professional software engineering experience.</li>
-<li>Minimum 2+ years of hands-on experience in Artificial Intelligence and/or Machine Learning.</li>
-<li>Strong understanding of AI/ML concepts, model development, evaluation, and deployment.</li>
-<li>Specialised knowledge and practical experience in:<br>Generative AI<br>Large Language Models (LLMs)<br>Agentic AI and AI-agent workflows<br>Retrieval-Augmented Generation (RAG)<br>AI tool integrations and orchestration</li>
-<li>Strong hands-on prompt engineering skills, including designing, testing, refining, and evaluating prompts for reliable, accurate, and context-aware LLM outputs.</li>
-<li>Strong proficiency in Python.</li>
-<li>Experience building scalable backend applications, APIs, and production-ready software solutions.</li>
-<li>Strong problem-solving skills and the ability to work independently as well as collaboratively within a team.</li>
-</ul>
-<p>Apply now and be part of #TeamDirectFN</p>",1,18,79,DirectFN,https://directfn.lk,74,2026-10-17 23:40:32,2026-10-19
-15495,Senior Web Developer,"<p><strong>About the Role</strong></p>
-<p>We are looking for an experienced Senior Web Developer with strong WordPress and Shopify expertise, excellent problem-solving skills, and a good eye for design. You will develop custom websites, implement advanced functionality, troubleshoot client issues promptly, and communicate directly with Australian clients. We value resourceful developers who can independently research solutions and effectively use AI tools to improve development efficiency.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Build, customize, and maintain WordPress and Shopify websites</li>
-<li>Develop custom WordPress plugins, themes, Shopify features, and integrations.</li>
-<li>Troubleshoot and resolve website issues quickly and efficiently.</li>
-<li>Implement SEO best practices, responsive designs, and performance improvements.</li>
-<li>Set up Google Analytics, Google Tag Manager, Meta Pixel, and conversion tracking.</li>
-<li>Use AI tools effectively for research, coding, and problem-solving.</li>
-<li>Communicate directly with Australian clients and provide regular project updates.</li>
+<li>Design user-friendly interfaces for web and mobile applications.</li>
+<li>Create wireframes, user flows, prototypes, and high-fidelity UI designs.</li>
+<li>Use Figma to develop design concepts and interactive prototypes.</li>
+<li>Conduct basic user research and apply usability principles.</li>
+<li>Collaborate with developers, project managers, and other team members.</li>
+<li>Maintain consistency in layouts, typography, colors, and design systems.</li>
+<li>Improve designs based on feedback and usability requirements.</li>
 </ul>
 <p><strong>Requirements</strong></p>
 <ul>
-<li>3+ years of experience in WordPress and Shopify development.</li>
-<li>Strong PHP, Liquid, HTML, CSS, and JavaScript skills.</li>
-<li>Proven experience in custom plugin development, advanced functionality, and troubleshooting.</li>
-<li>Good understanding of UI/UX, SEO, website performance, and tracking tools.</li>
-<li>Fluent spoken and written English is essential for direct client communication.</li>
-<li>Strong independent research, debugging, and problem-solving abilities.</li>
-<li>Experience using AI development tools such as ChatGPT, Cursor, Claude, or GitHub Copilot.</li>
-<li>Ability to manage tasks independently and respond promptly to client issues.</li>
-<li>A background in software development or engineering is an advantage.&#160;</li>
+<li>Basic understanding of UI/UX design principles.</li>
+<li>Familiarity with Figma or similar design tools.</li>
+<li>Understanding of wireframing, prototyping, and responsive design.</li>
+<li>Creativity, attention to detail, and a willingness to learn.</li>
+<li>Good communication and teamwork skills.</li>
+<li>A portfolio or sample designs demonstrating your creativity.</li>
 </ul>
 <p><strong>What We Offer</strong></p>
 <ul>
-<li>Diverse WordPress and Shopify projects across multiple industries.</li>
-<li>A collaborative, AI-friendly environment with opportunities for professional growth.</li>
-<li>A competitive salary package based on skills and experience.</li>
+<li>Hands-on experience with real-world software projects.</li>
+<li>Mentorship and guidance from experienced team members.</li>
+<li>Opportunities to improve your design and problem-solving skills.</li>
+<li>Collaboration with a multidisciplinary software development team.</li>
+<li>An opportunity to grow professionally in UI/UX design.</li>
 </ul>
-<p>If you're a reliable and creative Senior Web Developer with strong design taste and the ability to deliver solid</p>
-<p>functionality on both WordPress and Shopify, we'd love to hear from you!</p>",1,42,74,Avlanche,https://avlanche.com,106,2026-10-17 23:34:17,2026-10-19
-15494,Junior Front-End Developer,"<p>Ready to turn great designs into smooth digital experiences?</p>
-<p>We&#8217;re hiring a Junior Front-End Developer to join the Quantix Global team!<br>You&#8217;ll work on real client projects, building modern, responsive websites and web applications alongside our design and development teams.</p>
-<p><strong>What we&#8217;re looking for:</strong></p>
-<ul>
-<li>A degree in Software Engineering, IT, Computer Science or a related field from a recognized university</li>
-<li>Good knowledge of HTML, CSS and JavaScript</li>
-<li>Experience with React.js or Next.js</li>
-<li>Ability to build responsive, mobile-friendly interfaces</li>
-<li>Basic understanding of REST APIs and Git</li>
-<li>Strong attention to detail and the ability to accurately implement UI designs</li>
-<li>Good communication skills and a willingness to learn</li>
+<p>If you're excited about designing meaningful digital experiences, we'd love to hear from you!</p>",1,27,76,Kangaro Tech,https://www.linkedin.com/company/kangaro-tech,45,2026-10-19 22:29:17,2026-10-20
+13472,Software Implementation Officer,"<p>&#128205; Location: Gampaha<br data-start=""199"" data-end=""202"">&#127970; Company: ICS Computer Systems&#160;</p>
+<p><strong>&#128313; Job Responsibilities:</strong></p>
+<ul data-start=""305"" data-end=""543"">
+<li data-section-id=""2v1z8s"" data-start=""305"" data-end=""360"">Enter and manage data accurately in ERP/POS systems</li>
+<li data-section-id=""1dgw7n9"" data-start=""361"" data-end=""416"">Assist in system implementation at client locations</li>
+<li data-section-id=""1my0pec"" data-start=""417"" data-end=""460"">Provide basic user training and support</li>
+<li data-section-id=""5c5v7q"" data-start=""461"" data-end=""497"">Handle documentation and reports</li>
+<li data-section-id=""mbfgkz"" data-start=""498"" data-end=""543"">Coordinate with clients and internal team</li>
 </ul>
-<p><strong>Added advantage:</strong></p>
-<ul>
-<li>Experience with Tailwind CSS or Bootstrap</li>
-<li>Familiarity with Figma</li>
-<li>Personal, university or freelance projects you can show us</li>
-<li>Basic knowledge of animations and front-end performance optimization</li>
+<p><strong>&#128313; Requirements:</strong></p>
+<ul data-start=""571"" data-end=""785"">
+<li data-section-id=""fy7ldj"" data-start=""571"" data-end=""620"">Basic knowledge of computers (MS Excel, Word)</li>
+<li data-section-id=""1249e1v"" data-start=""621"" data-end=""669"">Good typing skills (English &amp; Sinhala/Tamil)</li>
+<li data-section-id=""10gvkis"" data-start=""670"" data-end=""715"">Willingness to travel for implementations</li>
+<li data-section-id=""juflah"" data-start=""716"" data-end=""745"">Good communication skills</li>
+<li data-section-id=""1ir3nlu"" data-start=""746"" data-end=""785"">School leavers / trainees can apply</li>
 </ul>
-<p>This is an on-site position at our Pelawatta office.</p>
-<p>Send your CV, portfolio, GitHub profile or links to projects you&#8217;ve built.</p>",1,21,,Quantix,https://quantixglobal.com,283,2026-10-17 23:15:09,2026-10-19
-15493,Intern IoT Engineer,"<p>We're hiring: Intern IoT Engineer<br>Pelawatta, Sri Lanka | On-site | Internship</p>
-<p>At Quantix Global, we build custom software platforms, and we also build interactive robots for live events and brand activations. Our robots work together with cloud-based software, and we're looking for an intern who enjoys connecting hardware with software.</p>
-<p><strong>What you'll do:</strong></p>
-<ul>
-<li>Assist in building and testing our interactive robots and other IoT devices using ESP32, Arduino and Raspberry Pi</li>
-<li>Write and debug device firmware and code</li>
-<li>Connect devices to our cloud platforms through APIs</li>
-<li>Work with our backend team to integrate devices with web applications</li>
-<li>Document designs, setups and test results</li>
+<p><strong>&#128313; Added Advantage:</strong></p>
+<ul data-start=""816"" data-end=""888"">
+<li data-section-id=""1xdysda"" data-start=""816"" data-end=""858"">Knowledge of accounting or ERP systems</li>
+<li data-section-id=""or4ht7"" data-start=""859"" data-end=""888"">Experience in POS systems</li>
 </ul>
-<p><strong>What we're looking for:</strong></p>
+<p><strong>What We Offer:</strong></p>
 <ul>
-<li>Currently pursuing or recently completed a degree in Software Engineering, IT, Computer Science, Electronics or a related field from a recognized university</li>
-<li>Studied IoT and built IoT projects</li>
-<li>Hands-on experience with Arduino, ESP32 or Raspberry Pi</li>
-<li>Programming skills in C/C++ or Python</li>
-<li>Good communication skills and a team-first attitude</li>
+<li>Training and career growth opportunities</li>
+<li>Exposure to local &amp; international IT projects</li>
+<li>Friendly working environment</li>
 </ul>
-<p><strong>Added advantage:</strong></p>
+<p>&#128222; WhatApp: 0777 20 63 53</p>",1,37,80,ICS Computer Systems,https://finakleerp.com,593,2026-10-19 20:11:48,2026-10-20
+15515,Intern Software Engineer,"<p>Contribute to designing, developing, testing, and maintaining high-quality software solutions under the guidance of experienced engineers.</p>
+<p>At BitSlize, you'll build products spanning Al-powered business solutions, enterprise platforms, workflow automation, analytics, and mobile applications, while working with organizations across diverse industries to solve real business challenges and drive digital transformation.</p>
+<p><strong>Requirements:</strong></p>
 <ul>
-<li>Knowledge of PHP (Laravel)</li>
-<li>Node.js</li>
-<li>Basic electronics or 3D printing</li>
-</ul>",4,19,,Quantix,https://quantixglobal.com,130,2026-10-17 23:13:25,2026-10-19
-15492,Intern Software Engineer (PHP Laravel),"<p>We're hiring: Intern Software Engineer (PHP Laravel)<br>Pelawatta, Sri Lanka | On-site | Internship</p>
-<p>At Quantix Global, we build custom ERP and SaaS platforms, web applications and mobile apps for clients across hospitality, healthcare, finance, travel and real estate. We're growing our development team and looking for an intern who wants to work on real client projects, not practice exercises.</p>
-<p><strong>What you'll do:</strong></p>
+<li>Knowledge of frontend and/or backend development</li>
+<li>Familiarity with software design concepts and system integrations</li>
+<li>Understanding of databases and REST APIS</li>
+<li>Currently based in Sri Lanka and available for local interviews and onboarding</li>
+<li>Ability to work from home/hybrid setup</li>
+</ul>",4,21,79,BitSlize Concepts,https://bitslize.com,249,2026-10-19 19:43:20,2026-10-20
+15514,SaaS Marketing & Brand Content Executive,"<p>Are you a creative, tech-savvy marketing enthusiast who loves content creation, digital marketing, and branding?&#160;</p>
+<p>FinTech Hive is looking for a passionate and proactive individual to strengthen our digital presence, create engaging content, and promote our innovative SaaS solutions, including Verifibee - our AI-powered identity verification platform.</p>
 <ul>
-<li>Build and maintain web applications and ERP modules using PHP Laravel</li>
-<li>Develop and integrate REST APIs</li>
-<li>Work with MySQL databases</li>
-<li>Turn Figma designs and SRS documents into working features</li>
+<li>Experience: Freshers / 1+ Years</li>
+<li>Industry: SaaS | AI | Software Technology</li>
 </ul>
-<p><strong>What we're looking for:</strong></p>
+<p><strong>What You'll Do:</strong></p>
 <ul>
-<li>Currently pursuing or recently completed a degree from a recognized university in IT, Computer Science, Software Engineering or a related field</li>
-<li>Strong hands-on knowledge of PHP and Laravel</li>
-<li>Good knowledge of MySQL</li>
-<li>Understanding of HTML, CSS, JavaScript and REST APIs</li>
-<li>Basic knowledge of Git</li>
-<li>Good communication skills and a team-first attitude</li>
-<li>Added advantage: Node.js and MongoDB</li>
+<li>Create engaging website content, blogs &amp; SEO strategies.</li>
+<li>Independently manage LinkedIn and other social media platforms.</li>
+<li>Develop creative marketing content and branding campaigns.</li>
+<li>Promote SaaS products and communicate their business value.</li>
+<li>Support digital marketing activities and analyze performance.</li>
 </ul>
-<p>You'll work alongside experienced developers, business analysts, designers and QA engineers, with the opportunity to move into a permanent role based on performance.</p>
-<p>To apply, send your CV and GitHub or portfolio link (if you have one)</p>",4,21,,Quantix,https://quantixglobal.com,183,2026-10-17 23:11:05,2026-10-19
-15491,Product Manager - POS Solutions,"<p>A leading organization is seeking a commercially driven POS industry professional to grow its POS solutions business through direct customer acquisition and strategic partnerships.</p>
-<p><strong>Key Responsibilities</strong></p>
+<p><strong>What We're Looking For:</strong></p>
 <ul>
-<li>Own the commercial performance of the POS product, developing and executing plans to achieve agreed sales and revenue targets.</li>
-<li>Generate and convert direct sales opportunities across restaurants, caf&#233;s, retail and hospitality businesses.</li>
-<li>Manage the full sales cycle from prospecting and product demonstrations to solution proposals, negotiations and deal closure.</li>
-<li>Establish and grow partnerships with POS hardware providers, distributors, resellers and other industry stakeholders to generate referrals and joint sales opportunities.</li>
-<li>Build and maintain an active sales pipeline through industry contacts, customer visits, networking and partner engagement.</li>
-<li>Understand customer operations and purchasing requirements to position suitable software and hardware solutions with support from internal teams.</li>
-<li>Analyse competitor products, pricing, customer demand and market trends to identify opportunities for growth.</li>
-<li>Recommend product improvements, solution packages, pricing strategies and target markets based on customer feedback and commercial potential</li>
-<li>Maintain strong customer and partner relationships to support repeat business, referrals and additional sales.</li>
-<li>Provide management with sales forecasts, performance updates, market findings and recommendations.</li>
+<li>Strong English communication and content writing skills.Knowledge of digital m</li>
+<li>arketing, SEO &amp; social media management.</li>
+<li>Familiarity with Canva, WordPress &amp; AI tools.Basic understanding of SaaS, AI &amp; software technologies.</li>
+<li>Creative thinking, ownership and a passion for technology.</li>
 </ul>
-<p><strong>Qualifications &amp; Experience</strong></p>
+<p>We're looking for more than someone who simply creates posts; we want a creative marketer who can turn technology into compelling stories and build strong brands!</p>
+<p>Create. Innovate. Grow with FinTech Hive!</p>",1,40,79,FinTech Hive,https://www.moneta.lk,24,2026-10-19 19:32:27,2026-10-20
+15383,Business Analyst,"<p><strong>About Verdentra</strong></p>
+<p>We are a team of expert technologists with a shared passion for building technology solutions responsibly, whilst focusing on business outcomes. Our mission is to weave excellence, innovation, and sustainability into the very fabric of the digital landscape, and we specialize in Cloud, Data, AI, and emerging technologies. We maintain solid collaborations with top-tier Independent Software Vendors (ISVs) in the US, providing us with a strong foundation to address complex challenges and deliver business outcomes.</p>
+<p><strong>What You&#8217;ll Gain:</strong></p>
 <ul>
-<li>Proven experience in the POS industry, with a successful track record in POS sales, business development, c channel sales or commercial product management.</li>
-<li>Demonstrated ability to independently generate business opportunities, negotiate commercial terms and close sales.</li>
-<li>Strong knowledge of POS software, hardware and their application in business operations.</li>
-<li>Experience with restaurant POS solutions and an understanding of restaurant workflows will be an advantage.</li>
-<li>Experience in establishing and managing relationships with POS hardware providers, distributors or resellers.</li>
-<li>An established customer base or professional network within the POS industry will be an advantage.</li>
-<li>Ability to assess market opportunities and translate customer needs into practical commercial recommendations.</li>
-<li>Excellent presentation, communication, negotiation and relationship management skills.</li>
-<li>Strong proficiency in English and Sinhala Tamil proficiency will be an added advantage.</li>
-<li>A self-driven, commercially focused approach with accountability for results.</li>
-</ul>",1,20,79,Zyentara Solutions,https://zyentarasolutions.com,54,2026-10-17 23:02:14,2026-10-19
+<li>Practical, Visible Impact: Turn business needs into actionable insights that support teams, clients, and informed decision-making through clear, effective documentation.</li>
+<li>Hands-on AI Exposure: Work on real Cloud, Data, and AI initiatives, using AI tools to speed up analysis and helping shape AI-driven solutions for clients.</li>
+<li>Exposure Beyond Pure Analysis: Contribute to proposals, business cases, and improvement initiatives, gaining early exposure to how analysis supports business growth and value creation.</li>
+<li>Clear Growth Path: Work closely with experienced leaders and teams, building the skills and confidence to take on broader responsibilities and progress toward future leadership roles. working</li>
+<li>Manage multiple priorities in a fast-paced, evolving environment</li>
+</ul>
+<p><strong>What We&#8217;re Looking For:</strong></p>
+<ul>
+<li>2+ years of experience in a Business Analyst or similar role, with hands-on exposure to requirement gathering and stakeholder engagement</li>
+<li>Understanding of how AI/ML solutions work at a business level: spotting AI use cases, defining data and success criteria, and capturing requirements for AI-enabled features</li>
+<li>Strong communicators with a collaborative mindset and a genuine willingness to learn</li>
+<li>Detail-oriented and analytical thinkers, focused on delivering accurate, value-driven outcomes</li>
+<li>Comfortable juggling multiple priorities in a fast-paced, dynamic environment</li>
+</ul>",8,20,79,Verdentra,https://www.verdentra.com,467,2026-10-19 19:27:59,2026-10-20
+15513,Software Engineer Internship,"<p>Zenzebz Technologies is expanding its engineering team, and we are looking for a Software Engineer Intern to join us on-site in Nugegoda.</p>
+<p>In this role, you will work alongside our development team to design, build, and maintain software solutions that optimize client business processes. You will gain hands-on experience across the software development lifecycle, contributing to back-end web development tasks, debugging, and code reviews.&#160;</p>
+<p><strong></strong><strong>What We Are Looking For:&#160;</strong></p>
+<ul>
+<li>Completed a degree in Computer Science, Software Engineering, or a related field</li>
+<li>Strong foundational knowledge in programming, object-oriented programming (OOP), and problem-solving</li>
+<li>Basic experience or coursework in back-end web development and Git version control</li>
+<li>Strong communication skills and a collaborative approach to teamwork&#160;</li>
+<li>Availability to work on-site in Nugegoda&#160;</li>
+</ul>
+<p><strong>What You'll Get</strong></p>
+<ul>
+<li>Real-World Project Experience: Work on live software projects and solve real business problems</li>
+<li>Global Client Exposure: Work with global clients and gain valuable industry exposure.</li>
+<li>Collaborative Environment: Work alongside a supportive and innovative engineering team</li>
+<li>Career Growth Opportunities: Develop your skills and grow your career with us.</li>
+</ul>",4,21,,Zenzebz Technologies,https://info.zenzebz.com,201,2026-10-19 19:21:52,2026-10-20
+15512,Associate Software Engineer,"<p>Zenzebz Technologies is expanding its engineering team, and we are looking for an Associate Software Engineer to join us on-site in Nugegoda.&#160;<br>&#160;<br>In this role, you will work alongside our development team to design, build, and maintain software solutions that optimize client business processes. You will collaborate closely with experienced professionals on impactful, real-world projects across the software development lifecycle.&#160;<br>&#160;<br><strong>What We Are Looking For:</strong></p>
+<ul>
+<li>Minimum 1 year of professional software development experience</li>
+<li>Completed a degree in Computer Science, Software Engineering, or a related field</li>
+<li>Strong knowledge of Object-Oriented Programming (OOP) concepts and problem-solving</li>
+<li>Strong communication skills and a collaborative approach to teamwork</li>
+<li>Availability to work on-site in Nugegoda &#160;</li>
+</ul>
+<p><strong>What You'll Get</strong></p>
+<ul>
+<li>Real-World Project Experience:&#160;Work on live software projects and solve real business problems</li>
+<li>Global Client Exposure:&#160;Work with global clients and gain valuable industry exposure.</li>
+<li>Collaborative Environment:&#160;Work alongside a supportive and innovative engineering&#160;team</li>
+<li>Career Growth Opportunities:&#160;Develop your skills and grow your career with us.</li>
+</ul>",1,21,,Zenzebz Technologies,https://info.zenzebz.com,201,2026-10-19 19:18:40,2026-10-20
+13325,HR Executive (Remote US Shift),"<p><em><strong>We&#8217;re Hiring &#8211; HR Executive (Remote &#8211; US Shift)</strong></em></p>
+<p>Are you passionate about Human Resources and looking to grow your career with an international organization? Join our dynamic team and make an impact.</p>
+<ul>
+<li>Company:* KD Associates Buffalo Inc. (USA)</li>
+<li>Schedule:* 5:30 PM &#8211; 2:30 AM (SLT), Monday to Saturday (1-hour break)</li>
+</ul>
+<p><strong>Key Responsibilities:</strong></p>
+<ul>
+<li>Manage hiring and employee onboarding processes</li>
+<li>Maintain attendance, employee records, and HR documentation</li>
+<li>Handle payroll coordination and employee benefits</li>
+<li>Provide employee support and resolve HR-related issues</li>
+<li>Oversee performance management processes</li>
+<li>Coordinate training and development programs</li>
+<li>Ensure company policies, compliance, and discipline are maintained</li>
+<li>Keep all HR records organized and up to date</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>Degree in Human Resources Management or a recognized professional qualification</li>
+<li>2&#8211;4 years of experience in HR operations, HR analytics, or HRIS roles</li>
+<li>Strong experience with HRIS systems, employee databases, and MS Excel reporting</li>
+<li>Good understanding of HR processes, compliance, and data management</li>
+<li>Strong analytical, problem-solving, and coordination skills</li>
+<li>Experience in a group or multi-entity environment is an added advantage</li>
+</ul>
+<p><strong>Salary:</strong></p>
+<p>LKR 40,000 &#8211; 60,000 (based on experience</p>
+<p><strong>How to Apply:<br></strong>Email: hr@kdmarketing.org<br>Kindly include this email address in CC: hr@kdmarketinggroup.com</p>
+<p>Contact:<br>Sri Lanka: +94 762 941 911<br>USA: +1 (716) 400-4369<br>Apply now and grow with us..</p>",1,20,76,KD Marketing Group,https://kdmarketinggroup.com/,381,2026-10-19 18:50:01,2026-10-20
+12490,System Operator,"<p>We&rsquo;re Hiring: System Operator</p>
+<p>Join KD Marketing Group and support our operations for US-based projects.</p>
+<p><strong>Why Join Us?</strong></p>
+<p>
+<ul>
+<li>Remote (US-based projects)</li>
+<li>Competitive Pay &amp; Flexible Work</li>
+<li>Collaborative &amp; Growth-Focused Team</li>
+</ul>
+</p>
+<p><strong>Role Highlights:</strong></p>
+<p>
+<ul>
+<li>Monitor and manage system operations</li>
+<li>Coordinate tasks with the technical team</li>
+<li>Ensure smooth workflow and timely updates</li>
+<li>Support day-to-day backend processes</li>
+</ul>
+</p>",1,37,76,KD Marketing Group,https://kdmarketinggroup.com,356,2026-10-19 18:49:51,2026-10-20
