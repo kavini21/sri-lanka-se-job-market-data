@@ -3842,7 +3842,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Ability to maintain and manage database management systems (DBMS).</li>
 <li>Hands-on experience with system and network security practices, including DevSecOps.</li>
 <li>Excellent understanding of Scrum and Agile practices.</li>
-</ul>",1,44,79,Hatchyard,https://hatchyard.io,7,2026-10-22 00:46:17,2026-10-22
+</ul>",1,44,79.0,Hatchyard,https://hatchyard.io,7,2026-10-22 00:46:17,2026-10-22
 15536,Senior Software Engineer - Java,"<p>Senior Software Engineer - Java</p>
 <p><strong>Key Requirements</strong></p>
 <ul>
@@ -3859,7 +3859,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Experience in distributed systems is a plus.</li>
 <li>Experience working in Unix-based systems is a plus.</li>
 <li>Experience in designing and developing high-performance asynchronous systems is a plus.</li>
-</ul>",1,21,79,Hatchyard,https://hatchyard.io,18,2026-10-22 00:43:12,2026-10-22
+</ul>",1,21,79.0,Hatchyard,https://hatchyard.io,18,2026-10-22 00:43:12,2026-10-22
 15535,Associate Technical Lead- Data Engineering,"<p>Associate Technical Lead- Data Engineering</p>
 <p><strong>Key Requirements</strong></p>
 <ul>
@@ -3873,7 +3873,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Experience in API development and user interfaces and related tools (NodeJS, AngularJS, HTML) will be an added advantage.</li>
 <li>Working in a Scrum Agile delivery environment and DevOps practices.</li>
 <li>Experience in code management and CICD tools such as Github, Gitlab, Jenkins.</li>
-</ul>",1,18,79,Hatchyard,https://hatchyard.io,5,2026-10-22 00:40:42,2026-10-22
+</ul>",1,18,79.0,Hatchyard,https://hatchyard.io,5,2026-10-22 00:40:42,2026-10-22
 15534,Architect - Data Engineering,"<p>Architect - Data Engineering</p>
 <p><strong>Key Requirements</strong></p>
 <ul>
@@ -3886,7 +3886,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Exceptional communication and presentation skills, with a proven ability to explain complex architectural concepts to technical, functional, and executive audiences.</li>
 <li>Experience operating in a forward-deployed or embedded architecture model within business domains is an advantage.</li>
 <li>Familiarity with data mesh and data product operating models, semantic layers, and dimensional modeling is an advantage.</li>
-</ul>",1,18,79,Hatchyard,https://hatchyard.io,8,2026-10-22 00:38:19,2026-10-22
+</ul>",1,18,79.0,Hatchyard,https://hatchyard.io,8,2026-10-22 00:38:19,2026-10-22
 15533,Network & Infrastructure Engineer,"<p><strong>About Role</strong></p>
 <p>WIA Systems Inc. is a global professional services company founded in 2016 and headquartered in Texas. Specializing in Enterprise Resource Planning (ERP), the company provides a range of services including consulting, implementation, training, 24x7 support, and staff augmentation. Their certified implementation team focuses on IFS ERP and employs agile project management methodologies for quality results. WIA Systems has dedicated customer support and application hosting services to assist clients in achieving their business objectives. With a presence in markets across the USA, Canada, UK, and Sri Lanka, WIA Systems is positioned as a comprehensive ERP solutions provider.</p>
 <p>The Network &amp; Infrastructure Engineer is responsible for designing, implementing, securing, and supporting enterprise networking across on-premises and Microsoft Azure environments using Zero Trust principles.</p>
@@ -3966,7 +3966,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <li>Experience with identity-based access controls and device compliance integrations.</li>
 <li>Familiarity with PowerShell, infrastructure automation, and configuration management.</li>
 <li>Experience supporting disaster recovery exercises and maintaining recovery runbooks.</li>
-</ul>",1,19,79,WIA Systems Inc,https://www.wiasystems.com,28,2026-10-21 23:07:13,2026-10-22
+</ul>",1,19,79.0,WIA Systems Inc,https://www.wiasystems.com,28,2026-10-21 23:07:13,2026-10-22
 15529,Social Media Manager (1–2 Years Experience),"<p><strong>Innovoo Solutions (Pvt) Ltd.</strong> is looking for a creative, organized, and results-driven <strong>Social Media Manager</strong> with 1&#8211;2 years of experience to join our team. The ideal candidate should have a strong understanding of social media management, digital marketing, content strategy, and online brand development. You will be responsible for managing social media profiles for multiple clients, planning engaging content, coordinating digital campaigns, and improving brand visibility across digital platforms.</p>
 <p><strong>Key Responsibilities</strong></p>
 <ul>
@@ -4000,7 +4000,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <p><strong>Job Details</strong></p>
 <p><strong>Job Type:</strong> Full-Time</p>
 <p><strong>Work Arrangement:</strong> Onsite</p>
-<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.<strong></strong></p>",1,40,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,52,2026-10-21 13:27:36,2026-10-22
+<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.<strong></strong></p>",1,40,79.0,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,52,2026-10-21 13:27:36,2026-10-22
 15528,Intern - Odoo Developer,"<p><strong>About the Role</strong></p>
 <p>We are looking for a motivated and enthusiastic <strong>Odoo Developer Intern</strong> to join our team. This is an excellent opportunity for someone interested in ERP systems, Python development, and business application customization to gain hands-on experience working on real-world Odoo projects.</p>
 <p><strong>Responsibilities</strong></p>
@@ -4046,54 +4046,7 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <p>Diploma in Graphic Designing</p>
 <p>Knowladge of Graphic Design Tools</p>
 <p>0 - 6 Months Experience&#160;</p>
-<p><em><strong>0772826067</strong></em></p>",4,27,80,Ants Creation (Pvt) Ltd,https://www.ants.lk,60,2026-10-21 11:04:27,2026-10-22
-15456,Digital Marketing Intern (AI Product & Growth),"<p><strong>&#128640; </strong><strong>Digital Marketing Intern (AI Product &amp; Growth)</strong></p>
-<p><strong>&#128205; Remote | Internship</strong></p>
-<p><strong>&#128188; Company:</strong> Ranga Technologies</p>
-<p>&#128338; Full-Time</p>
-<p><strong>About the Role</strong></p>
-<p>Ranga Technologies is looking for a motivated, creative, and fast-learning <strong>Digital Marketing Intern</strong> to join our team and work directly on <strong>PineGen AI</strong>, our AI-powered coding tool.</p>
-<p>This is an opportunity for an undergraduate or fresh graduate who is passionate about digital marketing, AI, technology, and online growth. You will gain hands-on experience promoting a real AI product, reaching a global audience, and contributing to marketing campaigns that drive brand awareness and user acquisition.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Assist in planning and executing digital marketing strategies across multiple platforms.</li>
-<li>Support social media content planning, creation, scheduling, and distribution.</li>
-<li>Assist with SEO activities, keyword research, and website content optimization.</li>
-<li>Help plan and execute email marketing campaigns and product promotions.</li>
-<li>Research industry trends, target audiences, and competitor marketing strategies.</li>
-<li>Monitor marketing performance, engagement, and campaign metrics.</li>
-<li>Prepare basic reports and suggest improvements to increase reach and engagement.</li>
-<li>Collaborate with designers, developers, and content creators on marketing campaigns.</li>
-<li>Support product launches, feature announcements, and growth initiatives for PineGen AI.</li>
-<li>Maintain organized marketing calendars, campaign records, and communication.</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>Currently pursuing an undergraduate degree or recently graduated.</li>
-<li>Strong interest in digital marketing, AI products, and technology.</li>
-<li>Creative thinking and a willingness to learn new tools and strategies.</li>
-<li>Good written and verbal communication skills.</li>
-<li>Ability to work independently, manage tasks, and meet deadlines.</li>
-<li>Proactive attitude, attention to detail, and strong teamwork skills.</li>
-<li>Basic knowledge of SEO, social media marketing, or content creation is an advantage.</li>
-<li>Familiarity with tools such as Google Analytics, Google Search Console, Canva, or AI-powered marketing tools is a plus.</li>
-</ul>
-<p><strong>What You'll Gain</strong></p>
-<ul>
-<li>Practical experience marketing a real AI-powered coding product.</li>
-<li>Hands-on exposure to SEO, content marketing, social media, and campaign management.</li>
-<li>Opportunities to learn modern marketing tools and AI-powered workflows.</li>
-<li>Experience collaborating with marketing, product, and development teams.</li>
-<li>The opportunity to contribute to global marketing and user growth initiatives.</li>
-<li>Potential for a permanent, full-time position based on performance and contribution.</li>
-</ul>
-<p><strong>How to Apply</strong></p>
-<p>Interested candidates are invited to send their CV and any relevant writing, marketing, or creative work samples to:</p>
-<p>&#128233; <strong>Email:</strong> info@rangatechnologies.com</p>
-<p><strong>Email Subject:</strong> Marketing Intern &#8211; PineGen AI</p>
-<p>&#128172; <strong>Contact us directly:</strong> https://lnkd.in/gBVFk58W</p>
-<p>Join Ranga Technologies and help us grow PineGen AI in the evolving world of artificial intelligence.</p>
-<p>#DigitalMarketing #MarketingIntern #GrowthMarketing #SEO #SocialMediaMarketing #EmailMarketing #ArtificialIntelligence #PineGenAI #RangaTechnologies</p>",1,40,76,Ranga Technologies,https://www.rangatechnologies.com/,318,2026-10-21 09:51:54,2026-10-22
+<p><em><strong>0772826067</strong></em></p>",4,27,80.0,Ants Creation (Pvt) Ltd,https://www.ants.lk,60,2026-10-21 11:04:27,2026-10-22
 15526,Progress OpenEdge Developer - Contract,"<p>We're Hiring! Progress OpenEdge Developer<br><br>ZData Innovations (Pvt) Ltd is looking for an experienced Progress OpenEdge Developer to join our team on a contract basis.</p>
 <ul>
 <li>Location: Colombo, Sri Lanka (On-site)</li>
@@ -4110,4 +4063,226 @@ id,title,description,type_id,category_id,location,company,website,views_count,cr
 <p><strong>Added Advantage:</strong></p>
 <ul>
 <li>REST API integration, OpenEdge DBA, and Linux/Unix environments.</li>
-</ul>",8,21,79,ZData Innovations,https://www.zdatai.com,123,2026-10-21 09:19:37,2026-10-22
+</ul>",8,21,79.0,ZData Innovations,https://www.zdatai.com,123,2026-10-21 09:19:37,2026-10-22
+15543,Assistant Manager - IT,"<p>Kosmo Group, a leading Sri Lankan agribusiness group with a diversified portfolio spanning animal nutrition, poultry farming, breeding, laboratory services, and chicken processing, is seeking a dynamic and experienced IT professional to join our team as Assistant Manager - IT.</p>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Bachelor's Degree in Information Technology, Computer Science, or a related field.</li>
+<li>Minimum 4-5 years of relevant IT experience, preferably with experience in a supervisory or managerial capacity.</li>
+<li>Experience in ERP systems,&#160;networking, server administration, cybersecurity, and IT infrastructure management.</li>
+<li>Knowledge of database&#160;management, system integration, and IT project management.</li>
+<li>Strong leadership, analytical, communication, and problem- solving skills.</li>
+</ul>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Manage and maintain the company's IT infrastructure, including servers, networks, hardware, software, and IT security.</li>
+<li>Support ERP implementation, system integration, and continuous improvement of business&#160;processes.</li>
+<li>Ensure the availability, reliability, and security of IT systems across the organization.</li>
+<li>Oversee database administration, data backup, disaster recovery, and cybersecurity measures.</li>
+<li>Coordinate with departments to identify&#160;technology requirements and implement suitable IT solutions.</li>
+<li>Manage IT vendors, service providers, budgets, and IT-related projects.</li>
+<li>Develop and implement IT policies, procedures, and internal controls.</li>
+</ul>",1,37,81,Kosmo Group of Companies,https://kosmofeed.com,1,2026-10-23 06:50:48,2026-10-23
+14985,Quality Engineering Lead,"<p>We&#8217;re Hiring - Quality Engineering Lead</p>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>A Bachelor's Degree or equivalent qualification.</li>
+<li>6-7+ years of experience in Quality Engineering, with at least 2+ years in a QE Lead, Associate Lead, or similar leadership role.</li>
+<li>Proven experience defining and executing enterprise-scale test strategies for data platforms, integrations, APIs, and distributed systems.</li>
+<li>Strong experience with test automation frameworks and automation-first delivery models.</li>
+<li>Experience in Data Quality Testing, ETL Testing, Data Migration Testing, Database Testing, and Data Validation frameworks.</li>
+<li>Experience designing and implementing automation solutions using Java, Python, or similar programming languages.</li>
+<li>Strong understanding of CI/CD pipelines and tools such as Jenkins, GitHub Actions, Git, Maven, SonarQube, and related platforms.</li>
+<li>Experience in performance engineering and performance testing tools.</li>
+<li>Strong knowledge of software testing processes, practices and test design techniques.</li>
+<li>A solid practical understanding of Agile Software Testing and Software Engineering concepts.</li>
+<li>Professional certifications such as ISTQB, PMI-ACP or CSM (Certified Scrum Master) would be an added advantage.</li>
+</ul>",1,39,79,Hatchyard,https://hatchyard.io,150,2026-10-23 05:58:57,2026-10-23
+15542,Senior Application Security Engineer,"<p>Our US-based client is seeking a Senior Application Security Engineer to join its remote operations team in Sri Lanka.</p>
+<p><strong>Your Responsibilities</strong></p>
+<ul>
+<li>Integrate and automate security tools (SAST, DAST, SCA, &amp; secret scanning) into CI/CD pipelines.</li>
+<li>Manage bug bounty programs, including vulnerability triage, validation, &amp; remediation.</li>
+<li>Conduct application security threat hunting to identify exploits, API vulnerabilities, and suspicious activity.</li>
+<li>Perform application penetration testing, code reviews, threat modelling, &amp; security architecture reviews.</li>
+<li>Collaborate with development teams to improve secure coding practices &amp; application security.</li>
+</ul>
+<p><strong>Your Qualifications</strong></p>
+<ul>
+<li>5+ years of experience in Information Security, with strong expertise in Application Security (AppSec) &amp; DevSecOps.</li>
+<li>Hands-on experience managing bug bounty programs using platforms such as HackerOne or Bugcrowd.</li>
+<li>Proven experience integrating security testing tools into CI/CD pipelines (GitHub Actions, GitLab Cl, or Jenkins).</li>
+<li>Strong knowledge of OWASP Top 10, API security, threat modelling, &amp; application vulnerabilities.</li>
+<li>Experience with application security threat hunting &amp; penetration testing.</li>
+<li>Practical knowledge of cloud security (AWS, Azure, or GCP) &amp; container security (Docker/Kubernetes).</li>
+<li>Proficiency in at least one programming or scripting language, such as Python, Go, Java, or JavaScript.</li>
+<li>Familiarity with Al concepts, modern Al-powered development tools, &amp; cloud-based coding environments is highly desirable.</li>
+<li>Strong proactive communicator with excellent English communication skills (both written &amp; verbal), with the ability to collaborate directly with US-based teams.</li>
+</ul>",1,21,79,CMS (Pvt) Ltd,https://www.cms.lk,8,2026-10-23 04:07:59,2026-10-23
+15541,Full Stack Developer (Trainee Internship),"<p><strong>WE&#8217;RE HIRING &#8211; FULL STACK DEVELOPER (TRAINEE INTERNSHIP)</strong></p>
+<p>ITX Digital Services (PVT) LTD is looking for a motivated and enthusiastic Full Stack Developer Trainee to join our growing team.</p>
+<p>This is an excellent opportunity for university undergraduates to gain real-world industry experience, work on live client projects, and develop practical skills in modern web technologies.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Assist in developing and maintaining web applications</li>
+<li>Work with HTML, CSS, JavaScript, PHP, and Node.js</li>
+<li>Work with MySQL databases</li>
+<li>Collaborate on UI/UX implementation</li>
+<li>Test, debug, and optimize applications</li>
+<li>Support deployment and server-side tasks</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Undergraduate in IT, Computer Science, Software Engineering, or a related field</li>
+<li>Basic knowledge of front-end and back-end development</li>
+<li>Familiarity with HTML, CSS, JavaScript, PHP, and MySQL</li>
+<li>Willingness to learn and work as part of a team</li>
+<li>Good problem-solving and time-management skills</li>
+<li>GitHub profile, portfolio, or academic projects will be an advantage</li>
+</ul>
+<p><strong>Location:</strong> ITX Digital Services (PVT) LTD, 174/1/A, Viskampura Road, Hokandara South, Sri Lanka, 10118.</p>
+<p><strong>How to Apply</strong></p>
+<p>Send your CV to: careers@itxdigitalservices.com</p>
+<p>Apply online: https://careers.itxdigitalservices.com</p>
+<p>Start your professional journey with ITX Digital Services and turn your technical knowledge into real-world experience. We look forward to welcoming passionate future developers to our team.</p>
+<p><strong>ITX Digital Services (PVT) LTD</strong></p>
+<p>ITX Digital Services Group of Companies</p>",4,42,76,ITX Digital Services (Pvt) Ltd,https://itxdigitalservices.com/,30,2026-10-23 03:49:08,2026-10-23
+15540,Business Analyst Intern,"<p><strong>Innovoo Solutions (Pvt) Ltd.</strong> is looking for a motivated, analytical, and detail-oriented <strong>Business Analyst Intern</strong> to join our team. This is an excellent opportunity for a recent graduate or an undergraduate looking to gain practical experience in business analysis, research, requirements gathering, and project coordination within a growing digital solutions company. The ideal candidate should have strong problem-solving skills, good communication abilities, and an interest in understanding business needs and identifying effective solutions.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul data-spread=""false"">
+<li>Conduct market, competitor, and business research to identify trends and opportunities.</li>
+<li>Gather, analyze, and document client requirements and business needs.</li>
+<li>Assist in identifying business challenges and recommending practical solutions.</li>
+<li>Prepare business reports, presentations, process documents, and project-related documentation.</li>
+<li>Communicate with clients to understand their requirements, expectations, and objectives.</li>
+<li>Coordinate with internal teams to ensure business requirements are clearly understood.</li>
+<li>Assist in analyzing existing business processes and identifying areas for improvement.</li>
+<li>Support the preparation of business proposals, project plans, and requirement specifications.</li>
+<li>Participate in client meetings and document key discussions, decisions, and action points.</li>
+<li>Assist in monitoring project progress and following up on assigned tasks.</li>
+<li>Maintain accurate documentation and ensure information is organized and up to date.</li>
+<li>Perform additional research and analytical tasks as required by the team.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul data-spread=""false"">
+<li>A degree, diploma, or current undergraduate studies in <strong>Business Management, Information Technology, Business Information Systems, or a related field</strong>.</li>
+<li>Fresh graduates and candidates with no prior experience are welcome to apply.</li>
+<li>Strong analytical, critical-thinking, and problem-solving skills.</li>
+<li>Good research and information-gathering abilities.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Ability to prepare clear reports, presentations, and documentation.</li>
+<li>Strong interpersonal and client coordination skills.</li>
+<li>Proficiency in Microsoft Office applications, particularly Word, Excel, and PowerPoint.</li>
+<li>Ability to communicate effectively in <strong>English, Sinhala, and Tamil</strong>.</li>
+<li>Good organizational skills, attention to detail, and time management.</li>
+<li>A proactive attitude, willingness to learn, and ability to work collaboratively within a team.</li>
+</ul>
+<p><strong>Job Details</strong></p>
+<p><strong>Job Type:</strong> Internship</p>
+<p><strong>Work Arrangement:</strong> On-Site</p>
+<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",4,37,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,174,2026-10-22 16:03:36,2026-10-23
+15539,Sales Coordinator (1–2 Years Experience),"<p><strong>Innovoo Solutions (Pvt) Ltd.</strong> is looking for a motivated, organized, and results-driven <strong>Sales Coordinator</strong> with 1&#8211;2 years of relevant experience to join our team. The ideal candidate should have strong communication, coordination, and client relationship management skills, along with an interest in sales and business development. This role offers an opportunity to work with clients, support sales activities, and contribute to the growth of a dynamic digital solutions company.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul data-spread=""false"">
+<li>Coordinate daily sales activities and support the sales team in achieving business objectives.</li>
+<li>Identify potential clients and follow up on leads to generate new business opportunities.</li>
+<li>Communicate with prospective and existing clients to understand their needs and introduce relevant company services.</li>
+<li>Maintain regular follow-ups with clients regarding inquiries, quotations, proposals, and sales opportunities.</li>
+<li>Prepare quotations, proposals, presentations, and other sales-related documents.</li>
+<li>Schedule client meetings, coordinate appointments, and maintain effective communication between clients and internal teams.</li>
+<li>Maintain accurate records of leads, client details, sales activities, and follow-ups.</li>
+<li>Build and maintain strong client relationships to support customer satisfaction and long-term business opportunities.</li>
+<li>Conduct market research and competitor analysis to identify potential clients and business opportunities.</li>
+<li>Coordinate with internal teams to ensure smooth communication and service delivery.</li>
+<li>Monitor sales progress and assist in preparing sales reports.</li>
+<li>Support the implementation of sales strategies and promotional activities.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul data-spread=""false"">
+<li><strong>1&#8211;2 years of experience</strong> in sales coordination, sales, business development, or a related field.</li>
+<li>A <strong>degree or diploma in Marketing, Business Management, Sales Management, Business Administration, or a related field</strong>.</li>
+<li>Excellent communication and interpersonal skills.</li>
+<li>Strong client relationship management and negotiation skills.</li>
+<li>Good organizational, coordination, and time-management abilities.</li>
+<li>Ability to conduct market research and identify potential business opportunities.</li>
+<li>Proficiency in Microsoft Office applications, particularly Word, Excel, and PowerPoint.</li>
+<li>Ability to manage multiple tasks, follow up on leads, and meet deadlines.</li>
+<li>A proactive, target-oriented attitude with a willingness to learn and grow.</li>
+<li>Ability to work independently and collaboratively with a team.</li>
+<li>Strong communication skills in English and Sinhala; Tamil will be an added advantage.</li>
+</ul>
+<p><strong>Job Details</strong></p>
+<p><strong>Job Type:</strong> Full-Time</p>
+<p><strong>Work Arrangement:</strong> On-Site</p>
+<p><strong>Company:</strong> Innovoo Solutions (Pvt) Ltd.</p>",1,20,79,Innovoo Solutions (Pvt) Ltd,https://innovoosolutions.com/,17,2026-10-22 16:00:08,2026-10-23
+15538,Software Engineer Intern,"<p>Sans Technologies Solutions (PVT) Ltd is looking for a passionate and motivated Software Engineer Intern to join our team!</p>
+<p>If you&#8217;re eager to transform your technical knowledge into practical experience, work on real-world projects, and grow as a software engineer, this opportunity is for you.</p>
+<ul>
+<li>Position: Software Engineer Intern</li>
+<li>Type: Paid Internship</li>
+<li>Duration: 6 Months</li>
+<li>Work Mode: Fully Remote</li>
+<li>Schedule: 5 Days per Week</li>
+</ul>
+<p><strong>What We&#8217;re Looking For</strong></p>
+<ul>
+<li>A foundation in programming and software engineering principles.</li>
+<li>Basic knowledge of web development, databases, and REST APIs.</li>
+<li>Familiarity with Git and version control.</li>
+<li>Strong problem-solving skills and a growth mindset.</li>
+<li>The ability to collaborate effectively and work independently in a remote environment.</li>
+</ul>
+<p><strong>What You&#8217;ll Gain</strong></p>
+<ul>
+<li>Hands-on experience with real-world software projects.</li>
+<li>Mentorship and constructive code reviews.</li>
+<li>Exposure to modern technologies and software development practices.</li>
+<li>Opportunities to develop your technical and professional skills.</li>
+</ul>
+<p>Join us in building innovative software solutions and shaping the future through technology.</p>
+<p>Sans Technologies Solutions (PVT) Ltd<br>Empowering Growth with Comprehensive Solutions</p>",4,21,76,Sans Technologies,https://sans-technologies.com,604,2026-10-22 11:06:48,2026-10-23
+15390,Printing & Cutting Assistant,"<ul data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-ved=""2ahUKEwib3fDfqqeXAxUpxjgGHSlhEKYQ-7AUegoIAggACAAIHhAA"" data-hveid=""CAIIAAgACB4QAA"" data-complete=""true"">
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACB4QAg"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Handcrafting</strong>: Cut, score, fold, stamp, and assemble multi-piece suites with ribbons, wax seals, or custom pockets.</li>
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACB4QBA"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Quality control</strong>: Inspect finished items for smudges, alignment, or paper flaws.</li>
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACB4QBg"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Packaging &amp; shipping</strong>: Package orders safely and track delivery timelines</li>
+</ul>
+<ul data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-ved=""2ahUKEwib3fDfqqeXAxUpxjgGHSlhEKYQ-7AUegoIAggACAAIKRAA"" data-hveid=""CAIIAAgACCkQAA"" data-complete=""true"">
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACCkQAg"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Communication</strong>: Patient and clear client management during stressful wedding planning phases.</li>
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACCkQBA"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Time management</strong>: Ability to juggle multiple custom orders and strict hard-stop wedding dates.</li>
+<li data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-hveid=""CAIIAAgACCkQBg"" data-complete=""true""><strong data-sfc-cp="""" data-sfc-root=""ep"" data-epip="""" data-complete=""true"">Attention to detail</strong>: Zero-error tolerance for dates, venue names, and spelling.</li>
+</ul>
+<p>Freshers are welcome 0772826067</p>",1,27,80,Ants Creation (Pvt) Ltd,https://www.ants.lk,116,2026-10-22 09:26:45,2026-10-23
+15537,Tech Lead - DevOps,"<p>Tech Lead - DevOps</p>
+<p><strong>Key Requirements</strong></p>
+<ul>
+<li>Degree in Telecommunications, Computer Science, IT, Systems, or Networking.</li>
+<li>6+ years of experience in DevOps, networking, IT, or telecommunications.</li>
+<li>Excellent analytical, problem-solving, teamwork, and communication skills.</li>
+<li>Demonstrated experience leading DevOps teams.</li>
+<li>Solid understanding of systems, networking, and software fundamentals.</li>
+<li>Hands-on experience with Unix-based operating systems.</li>
+<li>Hands-on experience with scripting and automation tools such as Bash, Ansible, Python, and Terraform, as well as programming languages and frameworks such as Java, Angular, React, and PHP.</li>
+<li>Hands-on experience with CI/CD and DevOps tools such as Jenkins, SonarQube, Kubernetes, Docker, and source control management (SCM) tools</li>
+<li>Hands-on experience with monitoring and observability tools such as Prometheus and Grafana.</li>
+<li>Hands-on experience with one or more cloud platforms.</li>
+<li>Ability to maintain and manage database management systems (DBMS).</li>
+<li>Hands-on experience with system and network security practices, including DevSecOps.</li>
+<li>Excellent understanding of Scrum and Agile practices.</li>
+</ul>",1,44,79,Hatchyard,https://hatchyard.io,53,2026-10-22 00:46:17,2026-10-23
+15536,Senior Software Engineer - Java,"<p>Senior Software Engineer - Java</p>
+<p><strong>Key Requirements</strong></p>
+<ul>
+<li>Bachelor's degree in computer science, Software Engineering.</li>
+<li>3+ years of solid experience in software design and development using Java.</li>
+<li>Strong understanding and hands-on experience in multithreading, performance optimization, memory management, Java Generics.</li>
+<li>Experience in unit testing, performance profiling, and debugging (execution and memory).</li>
+<li>Solid experience with the standard Java libraries.</li>
+<li>Experience in Python or other scripting languages.</li>
+<li>Experience in cloud technologies such as K8S, Docker, GCP, AWS, PaaS.</li>
+<li>Experience in coding assistants such as Cursor/Copilot/Antigravity. Experience or knowledge of AI/ML concepts is a major plus.</li>
+<li>Experience with build systems such as Maven, and CI/CD.</li>
+<li>Hands-on experience with tools such as Java performance profilers, debuggers, JVM analyzers, Git, and various IDEs/editors.</li>
+<li>Experience in distributed systems is a plus.</li>
+<li>Experience working in Unix-based systems is a plus.</li>
+<li>Experience in designing and developing high-performance asynchronous systems is a plus.</li>
+</ul>",1,21,79,Hatchyard,https://hatchyard.io,125,2026-10-22 00:43:12,2026-10-23
